@@ -1,0 +1,81 @@
+Olympic1's ARP Icons - Changelog
+
+
+=== Version 6 ===
+
+- Added new icon:
+	- CommonRock
+	- EnrichedRock
+	- FrozenRock
+	- MoltenRock
+	- Rock
+	- RockDust
+
+
+=== Version 5 ===
+
+- Added new icon:
+	- ScoopedAir
+
+- Changed icons:
+	- BioMass
+	- Compost
+	- EnrichedSoil
+	- Substrate
+
+
+=== Version 4 ===
+
+- Changed icons:
+	- Computers
+	- Karbonite
+	- MechanicalParts
+	- PlasticParts
+	- Polymers
+
+
+=== Version 3 ===
+
+- Initial Release
+
+- Added new icons:
+	- BioMass
+	- Chemicals
+	- Compost
+	- Computers
+	- ElectronicParts
+	- EnrichedSoil
+	- Karbonite
+	- MechanicalParts
+	- Minerals
+	- ModularParts
+	- PlasticParts
+	- Polymers
+	- PunchCards
+	- Robotics
+	- Substrate
+
+
+=== Version 2 ===
+
+- Added new icons:
+	- MEP-Computing
+	- MEP-Environmental
+	- MEP-Laboratory
+	- MEP-Manufacturing
+	- MEP-Mining
+	- MEP-Refining
+	- PatchKits
+	- Recyclables
+	- RepairKits
+	- ReplacementParts
+
+
+=== Version 1 ===
+
+- Added new icons:
+	- AdvMachinery
+	- BasicMachinery
+	- ExoticMinerals
+	- RareMetals
+	- SpecMachinery
