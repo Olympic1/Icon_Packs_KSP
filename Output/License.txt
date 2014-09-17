@@ -1,4 +1,10 @@
-Olympic1's Alternate Resource Panel Icons for MKS/OKS, Karbonite, and Asteroidal Resources.
+Olympic1's Alternate Resource Panel Icons for:
+
+- MKS/OKS
+- Community Resource Pack
+- Karbonite
+- Karbonite Plus
+- Asteroid Recycling Technologies
 
 Copyright © 2014, Olympic1
 

@@ -1,9 +1,17 @@
 Olympic1's ARP Icons - Changelog
 
 
+=== Version 7 ===
+
+- Added new icons:
+	- Karborundum
+
+- EnrichedSoil and ScoopedAir are moved to a LEGACY folder. This will prevent saves from breaking, and new users can easily delete the LEGACY folder. This folder will be reset with KSP 0.25.
+
+
 === Version 6 ===
 
-- Added new icon:
+- Added new icons:
 	- CommonRock
 	- EnrichedRock
 	- FrozenRock
