@@ -34,7 +34,7 @@ You can download an Icon Pack by clicking on the links:
 * [Snacks Pack](https://www.dropbox.com/s/cl6fzua3xk0n1h6/SnacksPack.zip?dl=1)
 * [USI Pack](https://www.dropbox.com/s/26sokhwn2jzo5ob/USIPack.zip?dl=1)
 
-Or download all the packs from [GitHub](http://github.com/Olympic1/ARP_Icons_KSP/releases) or [DropBox](http://www.dropbox.com/s/wfxsnm72aev8d3b/AllPacks.zip?dl=1)
+Or download all the packs from [GitHub](http://github.com/Olympic1/Icon_Packs_KSP/releases) or [DropBox](http://www.dropbox.com/s/wfxsnm72aev8d3b/AllPacks.zip?dl=1)
 
 #### License
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, which means:
