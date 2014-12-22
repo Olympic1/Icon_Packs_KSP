@@ -1,0 +1,20 @@
+ModuleManager
+=============
+
+Original © from Ialdabaoth ( http://github.com/Ialdabaoth )
+
+Modified by // Modifications by // Maintained by sarbian ( http://github.com/sarbian )
+
+
+The original licence requirement was:
+
+-----
+
+Release under a CC share-alike license. Anyone is free to do anything they like with ModuleManager's source, with two caveats:
+
+1. You credit me (Ialdabaoth) as the original creator that your code is based on.
+2. You make it ABSOLUTELY CLEAR that your code is not the original ModuleManager, and that any problems that people have with your fork should be taken up with YOU, not me (Ialdabaoth).
+
+-----
+
+THIS DISTRIBUTION INCLUDES AN UNALTERED VERSION OF MODULEMANAGER.

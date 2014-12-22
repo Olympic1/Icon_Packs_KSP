@@ -1,0 +1,50 @@
+Olympic1's ARP Icons - USI MODS
+-------------------------------
+
+0.4.1 - 2014.12.22
+* Added 36 icons from KSP Alternate Resource panel into the pack.
+* Removed LEGACY folder because MKS/OKS doesn't support it anymore.
+
+0.4.0 - 2014.12.17
+* Added Hydrates
+* Added Hydrogen
+* Added Machinery
+* Added SpareParts
+* Added StructuralParts
+* Added Uraninite
+
+* The three Machinery types are being collapsed into one type - Machinery.
+* The three repair resources are being collapsed into one resource - SpareParts.
+* The six manufactured goods are being collapsed into three goods - StructuralParts (new), ElectronicParts, MechanicalParts.
+* CommonRock, EnrichedRock, FrozenRock, MoltenRock, and RockDust are moved to the LEGACY folder.
+* The six MEP-* resources are moved to the LEGACY folder.
+
+0.3.0 - 2014.09.17
+* Added Karborundum
+* EnrichedSoil and ScoopedAir are moved to a LEGACY folder. This will prevent saves from breaking and new users can easily delete the LEGACY folder.
+
+0.2.0 - 2014.08.06
+* Added CommonRock
+* Added EnrichedRock
+* Added FrozenRock
+* Added MoltenRock
+* Added Rock
+* Added RockDust
+
+0.1.2 - 2014.08.03
+* Added ScoopedAir
+* Changed BioMass
+* Changed Compost
+* Changed EnrichedSoil
+* Changed Substrate
+
+0.1.1 - 2014.08.02
+* Added License
+* Changed Computers
+* Changed Karbonite
+* Changed MechanicalParts
+* Changed PlasticParts
+* Changed Polymers
+
+0.1.0 - 2014.08.01
+* Initial Release including 30 icons.
