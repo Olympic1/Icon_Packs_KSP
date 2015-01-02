@@ -1,6 +1,6 @@
 {
-	"NAME":"Dang It Icon Pack",
-	"URL":"http://raw.githubusercontent.com/Olympic1/Icon_Packs_KSP/master/GameData/Olympic1ARPIcons/DangItPack/DI_icons.version",
+	"NAME":"ICS Icon Pack",
+	"URL":"http://raw.githubusercontent.com/Olympic1/ARP_Icons_KSP/master/GameData/Olympic1ARPIcons/ICSPack/ICS_icons.version",
 	"DOWNLOAD":"http://www.dropbox.com/sh/1cdvv3abkofjlex/AABNdhtKD9-Yn-2LLGuHtwpIa",
 	"GITHUB":
 	{
@@ -12,7 +12,7 @@
 	{
 		"MAJOR":0,
 		"MINOR":1,
-		"PATCH":1,
+		"PATCH":0,
 		"BUILD":0
 	},
 	"KSP_VERSION":

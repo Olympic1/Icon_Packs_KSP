@@ -1,6 +1,10 @@
 Olympic1's ARP Icons - USI MODS
 -------------------------------
 
+0.4.2 - 2015.01.02
+* Added ATM support.
+* Updated version file.
+
 0.4.1 - 2014.12.22
 * Added 36 icons from KSP Alternate Resource panel into the pack.
 * Removed LEGACY folder because MKS/OKS doesn't support it anymore.

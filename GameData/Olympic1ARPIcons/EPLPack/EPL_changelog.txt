@@ -1,5 +1,9 @@
 Olympic1's ARP Icons - Extraplanetary Launchpads
 ------------------------------------------------
 
+0.1.1 - 2015.01.02
+* Added ATM support.
+* Updated version file.
+
 0.1.0 - 2014.12.22
 * Initial Release including 4 icon.
