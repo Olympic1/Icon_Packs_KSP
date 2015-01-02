@@ -107,10 +107,10 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [shield:support-dr]: http://img.shields.io/badge/Deadly%20Reentry-v6.4.0-red.svg
 [shield:support-epl]: http://img.shields.io/badge/Extraplanetary%20Launchpads-v5.0.0-orange.svg
 [shield:support-ftt]: http://img.shields.io/badge/Freight%20Transport%20Technologies-v0.3.1-yellow.svg
-[shield:support-ics]: http://img.shields.io/badge/-v1.18.0-34c566.svg
+[shield:support-ics]: http://img.shields.io/badge/Ioncross%20Crew%20Support-v1.18.0-34c566.svg
 [shield:support-kar]: http://img.shields.io/badge/Karbonite-v0.5.1-000000.svg
 [shield:support-kar+]: http://img.shields.io/badge/Karbonite%20Plus-v0.3.0-lightgrey.svg
-[shield:support-mc]: http://img.shields.io/badge/-v1.10.1-acdadf.svg
+[shield:support-mc]: http://img.shields.io/badge/Mission%20Controller%202-v1.10.1-acdadf.svg
 [shield:support-reg]: http://img.shields.io/badge/Regolith-v0.1.2-533f03.svg
 [shield:support-snacks]: http://img.shields.io/badge/Snacks-v0.3.3-a99b13.svg
 [shield:support-sr]: http://img.shields.io/badge/Sounding%20Rockets-v0.1.1-be7272.svg
