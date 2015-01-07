@@ -1,5 +1,8 @@
 Olympic1's ARP Icons - Deadly Reentry
 -------------------------------------
 
+0.1.1 - 2015.01.07
+* Updated license.
+
 0.1.0 - 2015.01.02
 * Initial Release including 2 icon.

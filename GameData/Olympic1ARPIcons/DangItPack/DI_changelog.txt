@@ -1,6 +1,9 @@
 Olympic1's ARP Icons - DangIt
 -----------------------------
 
+0.1.2 - 2015.01.07
+* Updated license.
+
 0.1.1 - 2015.01.02
 * Added ATM support.
 * Updated version file.

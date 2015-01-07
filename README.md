@@ -33,6 +33,7 @@
 * [![][shield:support-warp]][WARP:thread]&nbsp;
 
 #### Integrated mod icons
+(Mods that integrated my icons)
 * [![][shield:support-bm]][BM:thread]&nbsp;
 
 #### Download
@@ -134,10 +135,10 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [USI:release]: http://www.dropbox.com/s/26sokhwn2jzo5ob/USIPack.zip?dl=0
 
 
-[shield:release-dangit]: http://img.shields.io/badge/DangIt%20Pack-v0.1.1-orange.svg
-[shield:release-dr]: http://img.shields.io/badge/DR%20Pack-v0.1.0-orange.svg
-[shield:release-epl]: http://img.shields.io/badge/EPL%20Pack-v0.1.1-orange.svg
-[shield:release-ics]: http://img.shields.io/badge/ICS%20Pack-v0.1.0-orange.svg
-[shield:release-mc]: http://img.shields.io/badge/MC%20Pack-v0.1.0-orange.svg
-[shield:release-snacks]: http://img.shields.io/badge/Snacks%20Pack-v0.1.1-orange.svg
+[shield:release-dangit]: http://img.shields.io/badge/DangIt%20Pack-v0.1.2-orange.svg
+[shield:release-dr]: http://img.shields.io/badge/DR%20Pack-v0.1.1-orange.svg
+[shield:release-epl]: http://img.shields.io/badge/EPL%20Pack-v0.1.2-orange.svg
+[shield:release-ics]: http://img.shields.io/badge/ICS%20Pack-v0.1.1-orange.svg
+[shield:release-mc]: http://img.shields.io/badge/MC%20Pack-v0.1.1-orange.svg
+[shield:release-snacks]: http://img.shields.io/badge/Snacks%20Pack-v0.1.2-orange.svg
 [shield:release-usi]: http://img.shields.io/badge/USI%20Pack-v0.4.3-orange.svg
