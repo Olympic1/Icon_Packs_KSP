@@ -32,6 +32,9 @@
 * [![][shield:support-srv]][SRV:thread]&nbsp;
 * [![][shield:support-warp]][WARP:thread]&nbsp;
 
+#### Integrated mod icons
+* [![][shield:support-bm]][BM:thread]&nbsp;
+
 #### Download
 You can download an Icon Pack by clicking on the links:
 * [![][shield:release-dangit]][DANGIT:release]
@@ -80,6 +83,7 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [MM:thread]: http://forum.kerbalspaceprogram.com/threads/55219
 [AMT:thread]: http://forum.kerbalspaceprogram.com/threads/96011
 [ART:thread]: http://forum.kerbalspaceprogram.com/threads/91790
+[BM:thread]: http://forum.kerbalspaceprogram.com/threads/53009
 [CRP:thread]: http://forum.kerbalspaceprogram.com/threads/91998
 [DANGIT:thread]: http://forum.kerbalspaceprogram.com/threads/81794
 [DR:thread]: http://forum.kerbalspaceprogram.com/threads/54954
@@ -102,6 +106,7 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [shield:support-mm]: http://img.shields.io/badge/ModuleManager-v2.5.6-40b7c0.svg
 [shield:support-amt]: http://img.shields.io/badge/Advanced%20Mining%20Technologies-v0.1.1-a62374.svg
 [shield:support-art]: http://img.shields.io/badge/Asteroid%20Recycling%20Technologies-v0.6.1-85586d.svg
+[shield:support-bm]: http://img.shields.io/badge/BioMass-v0.2.3-green.svg
 [shield:support-crp]: http://img.shields.io/badge/Community%20Resource%20Pack-v0.3.2-c5c09f.svg
 [shield:support-dangit]: http://img.shields.io/badge/Dang%20It-v0.5.3.2-blue.svg
 [shield:support-dr]: http://img.shields.io/badge/Deadly%20Reentry-v6.4.0-red.svg
@@ -135,4 +140,4 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [shield:release-ics]: http://img.shields.io/badge/ICS%20Pack-v0.1.0-orange.svg
 [shield:release-mc]: http://img.shields.io/badge/MC%20Pack-v0.1.0-orange.svg
 [shield:release-snacks]: http://img.shields.io/badge/Snacks%20Pack-v0.1.1-orange.svg
-[shield:release-usi]: http://img.shields.io/badge/USI%20Pack-v0.4.2-orange.svg
+[shield:release-usi]: http://img.shields.io/badge/USI%20Pack-v0.4.3-orange.svg
