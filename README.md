@@ -46,7 +46,7 @@ You can download an Icon Pack by clicking on the links:
 * [![][shield:release-snacks]][SNACKS:release]
 * [![][shield:release-usi]][USI:release]
 
-Or download all the packs from [GitHub](http://github.com/Olympic1/Icon_Packs_KSP/releases) or [DropBox](http://www.dropbox.com/s/wfxsnm72aev8d3b/AllPacks.zip?dl=0)
+Or download all the packs from [GitHub](http://github.com/Olympic1/Icon_Packs_KSP/releases/latest) or [DropBox](http://www.dropbox.com/s/wfxsnm72aev8d3b/AllPacks.zip)
 
 #### License
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, which means:
@@ -104,14 +104,14 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 
 
 [shield:support-arp]: http://img.shields.io/badge/Alternate%20Resource%20Panel-v2.6.3.0-299bc7.svg
-[shield:support-mm]: http://img.shields.io/badge/ModuleManager-v2.5.6-40b7c0.svg
+[shield:support-mm]: http://img.shields.io/badge/ModuleManager-v2.5.9-40b7c0.svg
 [shield:support-amt]: http://img.shields.io/badge/Advanced%20Mining%20Technologies-v0.1.1-a62374.svg
 [shield:support-art]: http://img.shields.io/badge/Asteroid%20Recycling%20Technologies-v0.6.1-85586d.svg
-[shield:support-bm]: http://img.shields.io/badge/BioMass-v0.2.3-green.svg
+[shield:support-bm]: http://img.shields.io/badge/BioMass-v0.2.3.0-green.svg
 [shield:support-crp]: http://img.shields.io/badge/Community%20Resource%20Pack-v0.3.2-c5c09f.svg
 [shield:support-dangit]: http://img.shields.io/badge/Dang%20It-v0.5.3.2-blue.svg
 [shield:support-dr]: http://img.shields.io/badge/Deadly%20Reentry-v6.4.0-red.svg
-[shield:support-epl]: http://img.shields.io/badge/Extraplanetary%20Launchpads-v5.0.0-orange.svg
+[shield:support-epl]: http://img.shields.io/badge/Extraplanetary%20Launchpads-v5.0.1-orange.svg
 [shield:support-ftt]: http://img.shields.io/badge/Freight%20Transport%20Technologies-v0.3.1-yellow.svg
 [shield:support-ics]: http://img.shields.io/badge/Ioncross%20Crew%20Support-v1.18.0-34c566.svg
 [shield:support-kar]: http://img.shields.io/badge/Karbonite-v0.5.1-000000.svg
@@ -126,13 +126,13 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [shield:support-warp]: http://img.shields.io/badge/Warp%20Drive-v0.1.1-7d617d.svg
 
 
-[DANGIT:release]: http://www.dropbox.com/s/piqimag81ug3uof/DangItPack.zip?dl=0
-[DR:release]: http://www.dropbox.com/s/euewcl7z1tce9na/DRPack.zip?dl=0
-[EPL:release]: http://www.dropbox.com/s/ulaa7kqgsucx5xr/EPLPack.zip?dl=0
-[ICS:release]: http://www.dropbox.com/s/qs5y9ebpmcuehr2/ICSPack.zip?dl=0
-[MC:release]: http://www.dropbox.com/s/55i2nu3hq775940/MCPack.zip?dl=0
-[SNACKS:release]: http://www.dropbox.com/s/cl6fzua3xk0n1h6/SnacksPack.zip?dl=0
-[USI:release]: http://www.dropbox.com/s/26sokhwn2jzo5ob/USIPack.zip?dl=0
+[DANGIT:release]: http://www.dropbox.com/s/piqimag81ug3uof/DangItPack.zip
+[DR:release]: http://www.dropbox.com/s/euewcl7z1tce9na/DRPack.zip
+[EPL:release]: http://www.dropbox.com/s/ulaa7kqgsucx5xr/EPLPack.zip
+[ICS:release]: http://www.dropbox.com/s/qs5y9ebpmcuehr2/ICSPack.zip
+[MC:release]: http://www.dropbox.com/s/55i2nu3hq775940/MCPack.zip
+[SNACKS:release]: http://www.dropbox.com/s/cl6fzua3xk0n1h6/SnacksPack.zip
+[USI:release]: http://www.dropbox.com/s/26sokhwn2jzo5ob/USIPack.zip
 
 
 [shield:release-dangit]: http://img.shields.io/badge/DangIt%20Pack-v0.1.2-orange.svg
