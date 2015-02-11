@@ -1,6 +1,6 @@
-### Icon Packs for KSP [![][shield:release-latest]][GIT:release]&nbsp;
-[![][shield:support-ksp]][KSP:website]&nbsp;
-[![][shield:license-cc]][ICONS:license]&nbsp;
+### Icon Packs for KSP [![][shield:release-latest]][GIT:release]  
+[![][shield:support-ksp]][KSP:website]
+[![][shield:license-cc]][ICONS:license]
 
 ![][flag:arp-icons]
 
@@ -8,33 +8,33 @@
 * [Olympic1](http://forum.kerbalspaceprogram.com/members/81815)
 
 #### Required mods
-* [![][shield:support-arp]][ARP:thread]&nbsp;
-* [![][shield:support-mm]][MM:thread]&nbsp;
+* [![][shield:support-arp]][ARP:thread]
+* [![][shield:support-mm]][MM:thread]
 
 #### Recommended Mods
 (Install at least one of these mods to see the icons)
-* [![][shield:support-amt]][AMT:thread]&nbsp;
-* [![][shield:support-art]][ART:thread]&nbsp;
-* [![][shield:support-crp]][CRP:thread]&nbsp;
-* [![][shield:support-dangit]][DANGIT:thread]&nbsp;
-* [![][shield:support-dr]][DR:thread]&nbsp;
-* [![][shield:support-epl]][EPL:thread]&nbsp;
-* [![][shield:support-ftt]][FTT:thread]&nbsp;
-* [![][shield:support-ics]][ICS:thread]&nbsp;
-* [![][shield:support-kar]][KAR:thread]&nbsp;
-* [![][shield:support-kar+]][KAR+:thread]&nbsp;
-* [![][shield:support-mc]][MC:thread]&nbsp;
-* [![][shield:support-reg]][REG:thread]&nbsp;
-* [![][shield:support-snacks]][SNACKS:thread]&nbsp;
-* [![][shield:support-sr]][SR:thread]&nbsp;
-* [![][shield:support-exp]][EXP:thread]&nbsp;
-* [![][shield:support-mks]][MKS:thread]&nbsp;
-* [![][shield:support-srv]][SRV:thread]&nbsp;
-* [![][shield:support-warp]][WARP:thread]&nbsp;
+* [![][shield:support-amt]][AMT:thread]
+* [![][shield:support-art]][ART:thread]
+* [![][shield:support-crp]][CRP:thread]
+* [![][shield:support-dangit]][DANGIT:thread]
+* [![][shield:support-dr]][DR:thread]
+* [![][shield:support-epl]][EPL:thread]
+* [![][shield:support-ftt]][FTT:thread]
+* [![][shield:support-ics]][ICS:thread]
+* [![][shield:support-kar]][KAR:thread]
+* [![][shield:support-kar+]][KAR+:thread]
+* [![][shield:support-mc]][MC:thread]
+* [![][shield:support-reg]][REG:thread]
+* [![][shield:support-snacks]][SNACKS:thread]
+* [![][shield:support-sr]][SR:thread]
+* [![][shield:support-exp]][EXP:thread]
+* [![][shield:support-mks]][MKS:thread]
+* [![][shield:support-srv]][SRV:thread]
+* [![][shield:support-warp]][WARP:thread]
 
 #### Integrated mod icons
 (Mods that integrated my icons)
-* [![][shield:support-bm]][BM:thread]&nbsp;
+* [![][shield:support-bm]][BM:thread]
 
 #### Download
 You can download an Icon Pack by clicking on the links:
@@ -50,7 +50,6 @@ Or download all the packs from [GitHub](http://github.com/Olympic1/Icon_Packs_KS
 
 #### License
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, which means:
-
 * You are free to share, copy and redistribute my work "as-is".
 * You may adapt, remix, transform, and build upon the material.
 
@@ -109,21 +108,21 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [shield:support-art]: http://img.shields.io/badge/Asteroid%20Recycling%20Technologies-v0.6.1-85586d.svg
 [shield:support-bm]: http://img.shields.io/badge/BioMass-v0.2.3.0-green.svg
 [shield:support-crp]: http://img.shields.io/badge/Community%20Resource%20Pack-v0.3.3-c5c09f.svg
-[shield:support-dangit]: http://img.shields.io/badge/Dang%20It-v0.5.3.2-blue.svg
+[shield:support-dangit]: http://img.shields.io/badge/Dang%20It-v0.5.4--pre-blue.svg
 [shield:support-dr]: http://img.shields.io/badge/Deadly%20Reentry-v6.5.2-red.svg
-[shield:support-epl]: http://img.shields.io/badge/Extraplanetary%20Launchpads-v5.0.2-orange.svg
+[shield:support-epl]: http://img.shields.io/badge/Extraplanetary%20Launchpads-v5.1.0-orange.svg
 [shield:support-ftt]: http://img.shields.io/badge/Freight%20Transport%20Technologies-v0.3.1-yellow.svg
 [shield:support-ics]: http://img.shields.io/badge/Ioncross%20Crew%20Support-v1.18.0-34c566.svg
 [shield:support-kar]: http://img.shields.io/badge/Karbonite-v0.5.5-000000.svg
 [shield:support-kar+]: http://img.shields.io/badge/Karbonite%20Plus-v0.3.0-lightgrey.svg
-[shield:support-mc]: http://img.shields.io/badge/Mission%20Controller%202-v1.14.1-acdadf.svg
+[shield:support-mc]: http://img.shields.io/badge/Mission%20Controller%202-v1.11.1-acdadf.svg
 [shield:support-reg]: http://img.shields.io/badge/Regolith-v0.1.5-533f03.svg
 [shield:support-snacks]: http://img.shields.io/badge/Snacks-v0.3.3-a99b13.svg
 [shield:support-sr]: http://img.shields.io/badge/Sounding%20Rockets-v0.1.1-be7272.svg
 [shield:support-exp]: http://img.shields.io/badge/USI%20Exploration%20Pack-v0.3.1-206261.svg
 [shield:support-mks]: http://img.shields.io/badge/USI%20Kolonization%20Systems%20(MKS/OKS)-v0.22.6-7c69c0.svg
 [shield:support-srv]: http://img.shields.io/badge/USI%20Survivability%20Pack-v0.2.2-576935.svg
-[shield:support-warp]: http://img.shields.io/badge/Warp%20Drive-v0.1.1-7d617d.svg
+[shield:support-warp]: http://img.shields.io/badge/Warp%20Drive-v0.1.2-7d617d.svg
 
 
 [DANGIT:release]: http://www.dropbox.com/s/piqimag81ug3uof/DangItPack.zip
