@@ -103,7 +103,7 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 
 
 [shield:support-arp]: http://img.shields.io/badge/Alternate%20Resource%20Panel-v2.6.3.0-299bc7.svg
-[shield:support-mm]: http://img.shields.io/badge/ModuleManager-v2.5.9-40b7c0.svg
+[shield:support-mm]: http://img.shields.io/badge/ModuleManager-v2.5.11-40b7c0.svg
 [shield:support-amt]: http://img.shields.io/badge/Advanced%20Mining%20Technologies-v0.1.1-a62374.svg
 [shield:support-art]: http://img.shields.io/badge/Asteroid%20Recycling%20Technologies-v0.6.1-85586d.svg
 [shield:support-bm]: http://img.shields.io/badge/BioMass-v0.2.3.0-green.svg
