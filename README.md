@@ -137,10 +137,10 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [USI:release]: http://www.dropbox.com/s/26sokhwn2jzo5ob/USIPack.zip
 
 
-[shield:release-dangit]: http://img.shields.io/badge/DangIt%20Pack-Mod%20not%20updated%20for%201.0-red.svg
-[shield:release-dr]: http://img.shields.io/badge/DR%20Pack-Mod%20not%20updated%20for%201.0-red.svg
-[shield:release-epl]: http://img.shields.io/badge/EPL%20Pack-Mod%20not%20updated%20for%201.0-red.svg
-[shield:release-ics]: http://img.shields.io/badge/ICS%20Pack-Mod%20not%20updated%20for%201.0-red.svg
+[shield:release-dangit]: http://img.shields.io/badge/DangIt%20Pack-v0.2.0-orange.svg
+[shield:release-dr]: http://img.shields.io/badge/DR%20Pack-v0.2.0-orange.svg
+[shield:release-epl]: http://img.shields.io/badge/EPL%20Pack-v0.2.0-orange.svg
+[shield:release-ics]: http://img.shields.io/badge/ICS%20Pack-v0.2.0-orange.svg
 [shield:release-mc]: http://img.shields.io/badge/MC%20Pack-v0.2.0-orange.svg
-[shield:release-snacks]: http://img.shields.io/badge/Snacks%20Pack-Mod%20not%20updated%20for%201.0-red.svg
+[shield:release-snacks]: http://img.shields.io/badge/Snacks%20Pack-v0.2.0-orange.svg
 [shield:release-usi]: http://img.shields.io/badge/USI%20Pack-v0.5.0-orange.svg

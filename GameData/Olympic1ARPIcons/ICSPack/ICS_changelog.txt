@@ -1,6 +1,10 @@
 Olympic1's ARP Icons - Ioncross Crew Support
 --------------------------------------------
 
+0.2.0 - 2015.04.29
+* Updated to KSP 1.0
+* New ModuleManager
+
 0.1.1 - 2015.01.07
 * Updated license.
 
