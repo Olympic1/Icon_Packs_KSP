@@ -1,6 +1,47 @@
 Olympic1's ARP Icons - USI MODS
 -------------------------------
 
+0.5.0 - 2015.05.02
+* Updated to KSP 1.0
+* New ModuleManager
+
+* Renamed Ammonia to LqdAmmonia
+* Renamed LiquidHydrogen to LqdHydrogen
+* Renamed Metal to Metals
+
+* Added Boron
+* Added DepletedFuel
+* Added Fluorine
+* Added KryptonGas
+* Added LqdCO2
+* Added LqdDeuterium
+* Added LqdHe3
+* Added LqdNitrogen
+* Added LqdTritium
+* Added MetallicOre
+* Added Mulch
+* Added NeonGas
+* Added Organics
+* Added Supplies
+* Added ThF4
+* Added UraniumNitride
+
+* Removed BioMass
+* Removed Compost
+* Removed Deuterium
+* Removed ElectronicParts
+* Removed H2Peroxide
+* Removed Helium-3
+* Removed LqdMethane
+* Removed MechanicalParts
+* Removed Ore
+* Removed Polytetrafluoroethylene
+* Removed PunchCards
+* Removed Science
+* Removed StructuralParts
+* Removed ThermalPower
+* Removed Tritium
+
 0.4.3 - 2015.01.07
 * Changed BioMass icon - I made and integrated new icons for the BioMass mod. 
 * Updated license.
