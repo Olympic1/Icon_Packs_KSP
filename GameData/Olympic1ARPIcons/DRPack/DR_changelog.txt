@@ -1,6 +1,11 @@
 Olympic1's ARP Icons - Deadly Reentry
 -------------------------------------
 
+0.2.1 - 2015.05.05
+* Updated .version file
+* New ModuleManager
+* Changed LeadBallast
+
 0.2.0 - 2015.04.29
 * Updated to KSP 1.0
 * New ModuleManager

@@ -1,6 +1,10 @@
 Olympic1's ARP Icons - USI MODS
 -------------------------------
 
+0.5.1 - 2015.05.05
+* Updated .version file
+* New ModuleManager
+
 0.5.0 - 2015.05.02
 * Updated to KSP 1.0
 * New ModuleManager
