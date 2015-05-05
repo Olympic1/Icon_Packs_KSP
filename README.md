@@ -73,7 +73,7 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 
 
 [shield:release-latest]: http://img.shields.io/github/release/Olympic1/Icon_Packs_KSP.svg
-[shield:support-ksp]: http://img.shields.io/badge/KSP-v1.0-green.svg
+[shield:support-ksp]: http://img.shields.io/badge/KSP-v1.0.2-green.svg
 [shield:license-cc]: http://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg
 
 
@@ -104,8 +104,8 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [WARP:thread]: http://forum.kerbalspaceprogram.com/threads/100798
 
 
-[shield:support-arp]: http://img.shields.io/badge/Alternate%20Resource%20Panel-v2.7.0.0-299bc7.svg
-[shield:support-mm]: http://img.shields.io/badge/ModuleManager-v2.6.2-40b7c0.svg
+[shield:support-arp]: http://img.shields.io/badge/Alternate%20Resource%20Panel-v2.7.1.0-299bc7.svg
+[shield:support-mm]: http://img.shields.io/badge/ModuleManager-v2.6.3-40b7c0.svg
 [shield:support-amt]: http://img.shields.io/badge/Advanced%20Mining%20Technologies-v0.1.1-a62374.svg
 [shield:support-art]: http://img.shields.io/badge/Asteroid%20Recycling%20Technologies-v0.6.1-85586d.svg
 [shield:support-bm]: http://img.shields.io/badge/BioMass-v0.2.3.0-green.svg
@@ -122,8 +122,8 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [shield:support-snacks]: http://img.shields.io/badge/Snacks-v0.3.3-a99b13.svg
 [shield:support-sr]: http://img.shields.io/badge/Sounding%20Rockets-v0.2.0-be7272.svg
 [shield:support-exp]: http://img.shields.io/badge/USI%20Exploration%20Pack-v0.4.0-206261.svg
-[shield:support-mks]: http://img.shields.io/badge/USI%20Kolonization%20Systems%20(MKS/OKS)-v0.30.0-7c69c0.svg
-[shield:support-ls]: http://img.shields.io/badge/USI%20Life%20Support-v0.1.0-green.svg
+[shield:support-mks]: http://img.shields.io/badge/USI%20Kolonization%20Systems%20(MKS/OKS)-v0.30.1-7c69c0.svg
+[shield:support-ls]: http://img.shields.io/badge/USI%20Life%20Support-v0.1.1-green.svg
 [shield:support-srv]: http://img.shields.io/badge/USI%20Survivability%20Pack-v0.3.0-576935.svg
 [shield:support-warp]: http://img.shields.io/badge/Warp%20Drive-v0.2.0-7d617d.svg
 
