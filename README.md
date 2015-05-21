@@ -109,23 +109,23 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [shield:support-amt]: http://img.shields.io/badge/Advanced%20Mining%20Technologies-v0.1.1-a62374.svg
 [shield:support-art]: http://img.shields.io/badge/Asteroid%20Recycling%20Technologies-v0.6.1-85586d.svg
 [shield:support-bm]: http://img.shields.io/badge/BioMass-v0.2.3.0-green.svg
-[shield:support-crp]: http://img.shields.io/badge/Community%20Resource%20Pack-v0.4.0-c5c09f.svg
-[shield:support-dangit]: http://img.shields.io/badge/Dang%20It-v0.5.4--pre-blue.svg
-[shield:support-dr]: http://img.shields.io/badge/Deadly%20Reentry-v6.5.3-red.svg
-[shield:support-epl]: http://img.shields.io/badge/Extraplanetary%20Launchpads-v5.1.2-orange.svg
-[shield:support-ftt]: http://img.shields.io/badge/Freight%20Transport%20Technologies-v0.4.0-yellow.svg
+[shield:support-crp]: http://img.shields.io/badge/Community%20Resource%20Pack-v0.4.2-c5c09f.svg
+[shield:support-dangit]: http://img.shields.io/badge/Dang%20It-v0.6.1-blue.svg
+[shield:support-dr]: http://img.shields.io/badge/Deadly%20Reentry-v7.0.3-red.svg
+[shield:support-epl]: http://img.shields.io/badge/Extraplanetary%20Launchpads-v5.1.91-orange.svg
+[shield:support-ftt]: http://img.shields.io/badge/Freight%20Transport%20Technologies-v0.4.1-yellow.svg
 [shield:support-ics]: http://img.shields.io/badge/Ioncross%20Crew%20Support-v1.18.0-34c566.svg
-[shield:support-kar]: http://img.shields.io/badge/Karbonite-v0.6.0-000000.svg
-[shield:support-kar+]: http://img.shields.io/badge/Karbonite%20Plus-v0.4.0-lightgrey.svg
-[shield:support-mc]: http://img.shields.io/badge/Mission%20Controller%202-v1.12.2-acdadf.svg
+[shield:support-kar]: http://img.shields.io/badge/Karbonite-v0.6.2-000000.svg
+[shield:support-kar+]: http://img.shields.io/badge/Karbonite%20Plus-v0.4.1-lightgrey.svg
+[shield:support-mc]: http://img.shields.io/badge/Mission%20Controller%202-v1.12.3-acdadf.svg
 [shield:support-reg]: http://img.shields.io/badge/Regolith-v0.1.7-533f03.svg
-[shield:support-snacks]: http://img.shields.io/badge/Snacks-v0.3.3-a99b13.svg
-[shield:support-sr]: http://img.shields.io/badge/Sounding%20Rockets-v0.2.0-be7272.svg
-[shield:support-exp]: http://img.shields.io/badge/USI%20Exploration%20Pack-v0.4.0-206261.svg
-[shield:support-mks]: http://img.shields.io/badge/USI%20Kolonization%20Systems%20(MKS/OKS)-v0.30.1-7c69c0.svg
-[shield:support-ls]: http://img.shields.io/badge/USI%20Life%20Support-v0.1.1-green.svg
-[shield:support-srv]: http://img.shields.io/badge/USI%20Survivability%20Pack-v0.3.0-576935.svg
-[shield:support-warp]: http://img.shields.io/badge/Warp%20Drive-v0.2.0-7d617d.svg
+[shield:support-snacks]: http://img.shields.io/badge/Snacks-v0.3.5-a99b13.svg
+[shield:support-sr]: http://img.shields.io/badge/Sounding%20Rockets-v0.2.1-be7272.svg
+[shield:support-exp]: http://img.shields.io/badge/USI%20Exploration%20Pack-v0.4.1-206261.svg
+[shield:support-mks]: http://img.shields.io/badge/USI%20Kolonization%20Systems%20(MKS/OKS)-v0.30.2-7c69c0.svg
+[shield:support-ls]: http://img.shields.io/badge/USI%20Life%20Support-v0.1.2-green.svg
+[shield:support-srv]: http://img.shields.io/badge/USI%20Survivability%20Pack-v0.3.1-576935.svg
+[shield:support-warp]: http://img.shields.io/badge/Warp%20Drive-v0.2.1-7d617d.svg
 
 
 [DANGIT:release]: http://www.dropbox.com/s/piqimag81ug3uof/DangItPack.zip
@@ -143,4 +143,4 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [shield:release-ics]: http://img.shields.io/badge/ICS%20Pack-v0.2.1-orange.svg
 [shield:release-mc]: http://img.shields.io/badge/MC%20Pack-v0.2.1-orange.svg
 [shield:release-snacks]: http://img.shields.io/badge/Snacks%20Pack-v0.2.1-orange.svg
-[shield:release-usi]: http://img.shields.io/badge/USI%20Pack-v0.5.1-orange.svg
+[shield:release-usi]: http://img.shields.io/badge/USI%20Pack-v0.5.2-orange.svg
