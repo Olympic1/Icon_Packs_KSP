@@ -77,7 +77,7 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [shield:license-cc]: http://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg
 
 
-[flag:arp-icons]: http://i59.tinypic.com/34yxpiv.png
+[flag:arp-icons]: http://i62.tinypic.com/2qltqad.png
 
 
 [ARP:thread]: http://forum.kerbalspaceprogram.com/threads/60227
