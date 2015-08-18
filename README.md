@@ -13,8 +13,6 @@
 
 #### Recommended Mods
 (Install at least one of these mods to see the icons)
-* [![][shield:support-amt]][AMT:thread]
-* [![][shield:support-art]][ART:thread]
 * [![][shield:support-crp]][CRP:thread]
 * [![][shield:support-dangit]][DANGIT:thread]
 * [![][shield:support-dr]][DR:thread]
@@ -24,7 +22,6 @@
 * [![][shield:support-kar]][KAR:thread]
 * [![][shield:support-kar+]][KAR+:thread]
 * [![][shield:support-mc]][MC:thread]
-* [![][shield:support-reg]][REG:thread]
 * [![][shield:support-snacks]][SNACKS:thread]
 * [![][shield:support-sr]][SR:thread]
 * [![][shield:support-exp]][EXP:thread]
@@ -36,6 +33,7 @@
 #### Integrated mod icons
 (Mods that integrated my icons)
 * [![][shield:support-bm]][BM:thread]
+* [![][shield:support-df]][DF:thread]
 
 #### Download
 You can download an Icon Pack by clicking on the links:
@@ -77,9 +75,6 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 
 [ARP:thread]: http://forum.kerbalspaceprogram.com/threads/60227
 [MM:thread]: http://forum.kerbalspaceprogram.com/threads/55219
-[AMT:thread]: http://forum.kerbalspaceprogram.com/threads/96011
-[ART:thread]: http://forum.kerbalspaceprogram.com/threads/91790
-[BM:thread]: http://forum.kerbalspaceprogram.com/threads/53009
 [CRP:thread]: http://forum.kerbalspaceprogram.com/threads/91998
 [DANGIT:thread]: http://forum.kerbalspaceprogram.com/threads/81794
 [DR:thread]: http://forum.kerbalspaceprogram.com/threads/54954
@@ -89,7 +84,6 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [KAR:thread]: http://forum.kerbalspaceprogram.com/threads/89401
 [KAR+:thread]: http://forum.kerbalspaceprogram.com/threads/93054
 [MC:thread]: http://forum.kerbalspaceprogram.com/threads/43645
-[REG:thread]: http://forum.kerbalspaceprogram.com/threads/100162
 [SNACKS:thread]: http://forum.kerbalspaceprogram.com/threads/90841
 [SR:thread]: http://forum.kerbalspaceprogram.com/threads/102502
 [EXP:thread]: http://forum.kerbalspaceprogram.com/threads/86695
@@ -100,9 +94,6 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 
 [shield:support-arp]: http://img.shields.io/badge/Alternate%20Resource%20Panel-v2.7.3.0-299bc7.svg
 [shield:support-mm]: http://img.shields.io/badge/ModuleManager-v2.6.7-40b7c0.svg
-[shield:support-amt]: http://img.shields.io/badge/Advanced%20Mining%20Technologies-v0.1.1-a62374.svg
-[shield:support-art]: http://img.shields.io/badge/Asteroid%20Recycling%20Technologies-v0.6.1-85586d.svg
-[shield:support-bm]: http://img.shields.io/badge/BioMass-v0.9.2.1-green.svg
 [shield:support-crp]: http://img.shields.io/badge/Community%20Resource%20Pack-v0.4.4-c5c09f.svg
 [shield:support-dangit]: http://img.shields.io/badge/Dang%20It-v0.6.1-blue.svg
 [shield:support-dr]: http://img.shields.io/badge/Deadly%20Reentry-v7.2.2-red.svg
@@ -111,8 +102,7 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [shield:support-ics]: http://img.shields.io/badge/Ioncross%20Crew%20Support-v1.20.1-34c566.svg
 [shield:support-kar]: http://img.shields.io/badge/Karbonite-v0.6.3-000000.svg
 [shield:support-kar+]: http://img.shields.io/badge/Karbonite%20Plus-v0.4.1-lightgrey.svg
-[shield:support-mc]: http://img.shields.io/badge/Mission%20Controller%202-v1.21.0-acdadf.svg
-[shield:support-reg]: http://img.shields.io/badge/Regolith-v0.1.7-533f03.svg
+[shield:support-mc]: http://img.shields.io/badge/Mission%20Controller%202-v1.21.0-50b2bc.svg
 [shield:support-snacks]: http://img.shields.io/badge/Snacks-v0.3.5-a99b13.svg
 [shield:support-sr]: http://img.shields.io/badge/Sounding%20Rockets-v0.2.2-be7272.svg
 [shield:support-exp]: http://img.shields.io/badge/USI%20Exploration%20Pack-v0.4.1-206261.svg
@@ -120,6 +110,12 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [shield:support-ls]: http://img.shields.io/badge/USI%20Life%20Support-v0.1.5-green.svg
 [shield:support-srv]: http://img.shields.io/badge/USI%20Survivability%20Pack-v0.3.1-576935.svg
 [shield:support-warp]: http://img.shields.io/badge/Warp%20Drive-v0.2.1-7d617d.svg
+
+[BM:thread]: http://forum.kerbalspaceprogram.com/threads/53009
+[DF:thread]: http://forum.kerbalspaceprogram.com/threads/124720
+
+[shield:support-bm]: http://img.shields.io/badge/BioMass-v0.9.2.1-green.svg
+[shield:support-df]: http://img.shields.io/badge/DeepFreeze-v0.17.1.0-acdadf.svg
 
 [DANGIT:release]: http://www.dropbox.com/s/piqimag81ug3uof/DangItPack.zip
 [DR:release]: http://www.dropbox.com/s/euewcl7z1tce9na/DRPack.zip
