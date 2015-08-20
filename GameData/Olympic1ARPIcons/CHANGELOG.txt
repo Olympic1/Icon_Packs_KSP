@@ -16,7 +16,6 @@ Olympic1's ARP Icons
 * Added a README.txt
 	* Moved the license into the readme
 
-
 0.5.3 - 2015.07.04
 * Added Fertilizer
 * Added SpecializedParts
