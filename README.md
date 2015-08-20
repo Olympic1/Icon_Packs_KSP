@@ -13,8 +13,6 @@
 
 #### Recommended Mods
 (Install at least one of these mods to see the icons)
-* [![][shield:support-amt]][AMT:thread]
-* [![][shield:support-art]][ART:thread]
 * [![][shield:support-crp]][CRP:thread]
 * [![][shield:support-dangit]][DANGIT:thread]
 * [![][shield:support-dr]][DR:thread]
@@ -24,7 +22,6 @@
 * [![][shield:support-kar]][KAR:thread]
 * [![][shield:support-kar+]][KAR+:thread]
 * [![][shield:support-mc]][MC:thread]
-* [![][shield:support-reg]][REG:thread]
 * [![][shield:support-snacks]][SNACKS:thread]
 * [![][shield:support-sr]][SR:thread]
 * [![][shield:support-exp]][EXP:thread]
@@ -36,6 +33,7 @@
 #### Integrated mod icons
 (Mods that integrated my icons)
 * [![][shield:support-bm]][BM:thread]
+* [![][shield:support-df]][DF:thread]
 
 #### Download
 You can download an Icon Pack by clicking on the links:
@@ -65,26 +63,18 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 
 
 
-
-
 [GIT:release]: http://github.com/Olympic1/Icon_Packs_KSP/releases/latest
 [KSP:website]: http://kerbalspaceprogram.com
 [ICONS:license]: http://github.com/Olympic1/Icon_Packs_KSP/blob/master/License.txt
 
-
 [shield:release-latest]: http://img.shields.io/github/release/Olympic1/Icon_Packs_KSP.svg
-[shield:support-ksp]: http://img.shields.io/badge/KSP-v1.0-green.svg
+[shield:support-ksp]: http://img.shields.io/badge/KSP-v1.0.x-green.svg
 [shield:license-cc]: http://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg
 
-
-[flag:arp-icons]: http://i59.tinypic.com/34yxpiv.png
-
+[flag:arp-icons]: http://i62.tinypic.com/2qltqad.png
 
 [ARP:thread]: http://forum.kerbalspaceprogram.com/threads/60227
 [MM:thread]: http://forum.kerbalspaceprogram.com/threads/55219
-[AMT:thread]: http://forum.kerbalspaceprogram.com/threads/96011
-[ART:thread]: http://forum.kerbalspaceprogram.com/threads/91790
-[BM:thread]: http://forum.kerbalspaceprogram.com/threads/53009
 [CRP:thread]: http://forum.kerbalspaceprogram.com/threads/91998
 [DANGIT:thread]: http://forum.kerbalspaceprogram.com/threads/81794
 [DR:thread]: http://forum.kerbalspaceprogram.com/threads/54954
@@ -94,7 +84,6 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [KAR:thread]: http://forum.kerbalspaceprogram.com/threads/89401
 [KAR+:thread]: http://forum.kerbalspaceprogram.com/threads/93054
 [MC:thread]: http://forum.kerbalspaceprogram.com/threads/43645
-[REG:thread]: http://forum.kerbalspaceprogram.com/threads/100162
 [SNACKS:thread]: http://forum.kerbalspaceprogram.com/threads/90841
 [SR:thread]: http://forum.kerbalspaceprogram.com/threads/102502
 [EXP:thread]: http://forum.kerbalspaceprogram.com/threads/86695
@@ -103,30 +92,30 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [SRV:thread]: http://forum.kerbalspaceprogram.com/threads/84359
 [WARP:thread]: http://forum.kerbalspaceprogram.com/threads/100798
 
+[shield:support-arp]: http://img.shields.io/badge/Alternate%20Resource%20Panel-v2.7.3.0-299bc7.svg
+[shield:support-mm]: http://img.shields.io/badge/ModuleManager-v2.6.7-40b7c0.svg
+[shield:support-crp]: http://img.shields.io/badge/Community%20Resource%20Pack-v0.4.4-c5c09f.svg
+[shield:support-dangit]: http://img.shields.io/badge/Dang%20It-v0.6.1-blue.svg
+[shield:support-dr]: http://img.shields.io/badge/Deadly%20Reentry-v7.2.2-red.svg
+[shield:support-epl]: http://img.shields.io/badge/Extraplanetary%20Launchpads-v5.2.90-orange.svg
+[shield:support-ftt]: http://img.shields.io/badge/Freight%20Transport%20Technologies-v0.4.1-yellow.svg
+[shield:support-ics]: http://img.shields.io/badge/Ioncross%20Crew%20Support-v1.20.1-34c566.svg
+[shield:support-kar]: http://img.shields.io/badge/Karbonite-v0.6.3-000000.svg
+[shield:support-kar+]: http://img.shields.io/badge/Karbonite%20Plus-v0.4.1-lightgrey.svg
+[shield:support-mc]: http://img.shields.io/badge/Mission%20Controller%202-v1.21.0-50b2bc.svg
+[shield:support-snacks]: http://img.shields.io/badge/Snacks-v0.3.5-a99b13.svg
+[shield:support-sr]: http://img.shields.io/badge/Sounding%20Rockets-v0.2.2-be7272.svg
+[shield:support-exp]: http://img.shields.io/badge/USI%20Exploration%20Pack-v0.4.1-206261.svg
+[shield:support-mks]: http://img.shields.io/badge/USI%20Kolonization%20Systems%20(MKS/OKS)-v0.31.6-7c69c0.svg
+[shield:support-ls]: http://img.shields.io/badge/USI%20Life%20Support-v0.1.5-green.svg
+[shield:support-srv]: http://img.shields.io/badge/USI%20Survivability%20Pack-v0.3.1-576935.svg
+[shield:support-warp]: http://img.shields.io/badge/Warp%20Drive-v0.2.1-7d617d.svg
 
-[shield:support-arp]: http://img.shields.io/badge/Alternate%20Resource%20Panel-v2.7.0.0-299bc7.svg
-[shield:support-mm]: http://img.shields.io/badge/ModuleManager-v2.6.2-40b7c0.svg
-[shield:support-amt]: http://img.shields.io/badge/Advanced%20Mining%20Technologies-v0.1.1-a62374.svg
-[shield:support-art]: http://img.shields.io/badge/Asteroid%20Recycling%20Technologies-v0.6.1-85586d.svg
-[shield:support-bm]: http://img.shields.io/badge/BioMass-v0.2.3.0-green.svg
-[shield:support-crp]: http://img.shields.io/badge/Community%20Resource%20Pack-v0.4.0-c5c09f.svg
-[shield:support-dangit]: http://img.shields.io/badge/Dang%20It-v0.5.4--pre-blue.svg
-[shield:support-dr]: http://img.shields.io/badge/Deadly%20Reentry-v6.5.3-red.svg
-[shield:support-epl]: http://img.shields.io/badge/Extraplanetary%20Launchpads-v5.1.2-orange.svg
-[shield:support-ftt]: http://img.shields.io/badge/Freight%20Transport%20Technologies-v0.4.0-yellow.svg
-[shield:support-ics]: http://img.shields.io/badge/Ioncross%20Crew%20Support-v1.18.0-34c566.svg
-[shield:support-kar]: http://img.shields.io/badge/Karbonite-v0.6.0-000000.svg
-[shield:support-kar+]: http://img.shields.io/badge/Karbonite%20Plus-v0.4.0-lightgrey.svg
-[shield:support-mc]: http://img.shields.io/badge/Mission%20Controller%202-v1.12.2-acdadf.svg
-[shield:support-reg]: http://img.shields.io/badge/Regolith-v0.1.7-533f03.svg
-[shield:support-snacks]: http://img.shields.io/badge/Snacks-v0.3.3-a99b13.svg
-[shield:support-sr]: http://img.shields.io/badge/Sounding%20Rockets-v0.2.0-be7272.svg
-[shield:support-exp]: http://img.shields.io/badge/USI%20Exploration%20Pack-v0.4.0-206261.svg
-[shield:support-mks]: http://img.shields.io/badge/USI%20Kolonization%20Systems%20(MKS/OKS)-v0.30.0-7c69c0.svg
-[shield:support-ls]: http://img.shields.io/badge/USI%20Life%20Support-v0.1.0-green.svg
-[shield:support-srv]: http://img.shields.io/badge/USI%20Survivability%20Pack-v0.3.0-576935.svg
-[shield:support-warp]: http://img.shields.io/badge/Warp%20Drive-v0.2.0-7d617d.svg
+[BM:thread]: http://forum.kerbalspaceprogram.com/threads/53009
+[DF:thread]: http://forum.kerbalspaceprogram.com/threads/124720
 
+[shield:support-bm]: http://img.shields.io/badge/BioMass-v0.9.2.1-green.svg
+[shield:support-df]: http://img.shields.io/badge/DeepFreeze-v0.17.1.0-acdadf.svg
 
 [DANGIT:release]: http://www.dropbox.com/s/piqimag81ug3uof/DangItPack.zip
 [DR:release]: http://www.dropbox.com/s/euewcl7z1tce9na/DRPack.zip
@@ -136,11 +125,10 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [SNACKS:release]: http://www.dropbox.com/s/cl6fzua3xk0n1h6/SnacksPack.zip
 [USI:release]: http://www.dropbox.com/s/26sokhwn2jzo5ob/USIPack.zip
 
-
-[shield:release-dangit]: http://img.shields.io/badge/DangIt%20Pack-v0.2.0-orange.svg
-[shield:release-dr]: http://img.shields.io/badge/DR%20Pack-v0.2.0-orange.svg
-[shield:release-epl]: http://img.shields.io/badge/EPL%20Pack-v0.2.0-orange.svg
-[shield:release-ics]: http://img.shields.io/badge/ICS%20Pack-v0.2.0-orange.svg
-[shield:release-mc]: http://img.shields.io/badge/MC%20Pack-v0.2.0-orange.svg
-[shield:release-snacks]: http://img.shields.io/badge/Snacks%20Pack-v0.2.0-orange.svg
-[shield:release-usi]: http://img.shields.io/badge/USI%20Pack-v0.5.0-orange.svg
+[shield:release-dangit]: http://img.shields.io/badge/DangIt%20Pack-v0.2.1-orange.svg
+[shield:release-dr]: http://img.shields.io/badge/DR%20Pack-v0.2.1-orange.svg
+[shield:release-epl]: http://img.shields.io/badge/EPL%20Pack-v0.2.1-orange.svg
+[shield:release-ics]: http://img.shields.io/badge/ICS%20Pack-v0.2.1-orange.svg
+[shield:release-mc]: http://img.shields.io/badge/MC%20Pack-v0.2.1-orange.svg
+[shield:release-snacks]: http://img.shields.io/badge/Snacks%20Pack-v0.2.1-orange.svg
+[shield:release-usi]: http://img.shields.io/badge/USI%20Pack-v0.5.3-orange.svg
