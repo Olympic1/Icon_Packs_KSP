@@ -1,0 +1,121 @@
+Olympic1's ARP Icons
+--------------------
+
+0.6.0 - 2015.xx.xx
+* Merged all the icon packs into one big pack
+* Added mod to CKAN
+* New ModuleManager
+* Renamed license files
+
+0.5.3 - 2015.07.04
+* Added Fertilizer
+* Added SpecializedParts
+* New ModuleManager
+* Removed 'MAX' from .version file
+
+0.5.2 - 2015.05.21
+* Added LqdCO
+
+0.5.1 - 2015.05.05
+* Updated .version file
+* New ModuleManager
+* Changed LeadBallast
+
+0.5.0 - 2015.05.02
+* Updated to KSP 1.0
+* New ModuleManager
+
+* Renamed Ammonia to LqdAmmonia
+* Renamed LiquidHydrogen to LqdHydrogen
+* Renamed Metal to Metals
+
+* Added Boron
+* Added DepletedFuel
+* Added Fluorine
+* Added KryptonGas
+* Added LqdCO2
+* Added LqdDeuterium
+* Added LqdHe3
+* Added LqdNitrogen
+* Added LqdTritium
+* Added MetallicOre
+* Added Mulch
+* Added NeonGas
+* Added Organics
+* Added Supplies
+* Added ThF4
+* Added UraniumNitride
+
+* Removed BioMass
+* Removed Compost
+* Removed Deuterium
+* Removed ElectronicParts
+* Removed H2Peroxide
+* Removed Helium-3
+* Removed LqdMethane
+* Removed MechanicalParts
+* Removed Polytetrafluoroethylene
+* Removed PunchCards
+* Removed Science
+* Removed StructuralParts
+* Removed Tritium
+
+0.4.4 - 2015.04.29
+* Changed Ore to MetalOre
+* Removed repairParts
+
+0.4.3 - 2015.01.07
+* Changed BioMass icon - I made and integrated new icons for the BioMass mod.
+* Updated license
+
+0.4.2 - 2015.01.02
+* Added ATM support
+* Updated version file
+
+0.4.1 - 2014.12.22
+* Added 36 icons from KSP Alternate Resource panel into the pack.
+* Removed LEGACY folder because MKS/OKS doesn't support it anymore.
+
+0.4.0 - 2014.12.17
+* Added Hydrates
+* Added Hydrogen
+* Added Machinery
+* Added SpareParts
+* Added StructuralParts
+* Added Uraninite
+
+* The three Machinery types are being collapsed into one type - Machinery.
+* The three repair resources are being collapsed into one resource - SpareParts.
+* The six manufactured goods are being collapsed into three goods - StructuralParts (new), ElectronicParts, MechanicalParts.
+* CommonRock, EnrichedRock, FrozenRock, MoltenRock, and RockDust are moved to the LEGACY folder.
+* The six MEP resources are moved to the LEGACY folder.
+
+0.3.0 - 2014.09.17
+* Added Karborundum
+* EnrichedSoil and ScoopedAir are moved to a LEGACY folder. This will prevent saves from breaking and new users can easily delete the LEGACY folder.
+
+0.2.0 - 2014.08.06
+* Added CommonRock
+* Added EnrichedRock
+* Added FrozenRock
+* Added MoltenRock
+* Added Rock
+* Added RockDust
+
+0.1.2 - 2014.08.03
+* Added ScoopedAir
+* Changed BioMass
+* Changed Compost
+* Changed EnrichedSoil
+* Changed Substrate
+
+0.1.1 - 2014.08.02
+* Added License
+* Changed Computers
+* Changed Karbonite
+* Changed MechanicalParts
+* Changed PlasticParts
+* Changed Polymers
+
+0.1.0 - 2014.08.01
+* Initial Release

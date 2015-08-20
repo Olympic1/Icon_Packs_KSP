@@ -1,0 +1,36 @@
+{
+	"NAME":"Olympic1 Icon Packs",
+	"URL":"http://raw.githubusercontent.com/Olympic1/Icon_Packs_KSP/master/GameData/Olympic1ARPIcons/AllPacks.version",
+	"DOWNLOAD":"http://www.dropbox.com/Olympic1/Icon_Packs_KSP/releases/latest",
+	"GITHUB":
+	{
+		"USERNAME":"Olympic1",
+		"REPOSITORY":"ARP_Icons_KSP",
+		"ALLOW_PRE_RELEASE":false
+	},
+	"VERSION":
+	{
+		"MAJOR":0,
+		"MINOR":6,
+		"PATCH":0,
+		"BUILD":0
+	},
+	"KSP_VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":0,
+		"PATCH":4
+	},
+	"KSP_VERSION_MIN":
+	{
+		"MAJOR":1,
+		"MINOR":0,
+		"PATCH":0
+	}
+	"KSP_VERSION_MAX":
+	{
+		"MAJOR":1,
+		"MINOR":0,
+		"PATCH":4
+	}
+}
