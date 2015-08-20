@@ -1,5 +1,21 @@
-Olympic1's ARP Icons - USI MODS
--------------------------------
+Olympic1's ARP Icons
+--------------------
+
+0.6.0 - 2015.xx.xx
+* Merged all the icon packs into one big pack
+    * Moved the icons into 1 folder
+    * Merged the version files into 1 file
+    * Merged the changelog files into 1 file
+* Moved the MM configs in their own folder
+    * Added a :NEEDS check for the icons
+    * Added a :FOR check
+* Updated ATM config
+* New ModuleManager
+* Renamed license files
+* Added mod to CKAN
+* Added a new flag
+* Added a README.txt
+    * Moved the license into the readme
 
 0.5.3 - 2015.07.04
 * Added Fertilizer
@@ -9,11 +25,11 @@ Olympic1's ARP Icons - USI MODS
 
 0.5.2 - 2015.05.21
 * Added LqdCO
-* Added ThermalPower
 
 0.5.1 - 2015.05.05
 * Updated .version file
 * New ModuleManager
+* Changed LeadBallast
 
 0.5.0 - 2015.05.02
 * Updated to KSP 1.0
@@ -48,21 +64,23 @@ Olympic1's ARP Icons - USI MODS
 * Removed Helium-3
 * Removed LqdMethane
 * Removed MechanicalParts
-* Removed Ore
 * Removed Polytetrafluoroethylene
 * Removed PunchCards
 * Removed Science
 * Removed StructuralParts
-* Removed ThermalPower
 * Removed Tritium
 
+0.4.4 - 2015.04.29
+* Changed Ore to MetalOre
+* Removed repairParts
+
 0.4.3 - 2015.01.07
-* Changed BioMass icon - I made and integrated new icons for the BioMass mod. 
-* Updated license.
+* Changed BioMass icon - I made and integrated new icons for the BioMass mod.
+* Updated license
 
 0.4.2 - 2015.01.02
-* Added ATM support.
-* Updated version file.
+* Added ATM support
+* Updated version file
 
 0.4.1 - 2014.12.22
 * Added 36 icons from KSP Alternate Resource panel into the pack.
@@ -80,7 +98,7 @@ Olympic1's ARP Icons - USI MODS
 * The three repair resources are being collapsed into one resource - SpareParts.
 * The six manufactured goods are being collapsed into three goods - StructuralParts (new), ElectronicParts, MechanicalParts.
 * CommonRock, EnrichedRock, FrozenRock, MoltenRock, and RockDust are moved to the LEGACY folder.
-* The six MEP-* resources are moved to the LEGACY folder.
+* The six MEP resources are moved to the LEGACY folder.
 
 0.3.0 - 2014.09.17
 * Added Karborundum
@@ -110,4 +128,4 @@ Olympic1's ARP Icons - USI MODS
 * Changed Polymers
 
 0.1.0 - 2014.08.01
-* Initial Release including 30 icons.
+* Initial Release
