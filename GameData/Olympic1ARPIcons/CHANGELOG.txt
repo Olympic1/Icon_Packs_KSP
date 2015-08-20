@@ -3,19 +3,19 @@ Olympic1's ARP Icons
 
 0.6.0 - 2015.xx.xx
 * Merged all the icon packs into one big pack
-	* Moved the icons into 1 folder
+    * Moved the icons into 1 folder
     * Merged the version files into 1 file
-	* Merged the changelog files into 1 file
+    * Merged the changelog files into 1 file
 * Moved the MM configs in their own folder
-	* Added a :NEEDS check for the icons
-	* Added a :FOR check
+    * Added a :NEEDS check for the icons
+    * Added a :FOR check
 * Updated ATM config
 * New ModuleManager
 * Renamed license files
 * Added mod to CKAN
 * Added a new flag
 * Added a README.txt
-	* Moved the license into the readme
+    * Moved the license into the readme
 
 0.5.3 - 2015.07.04
 * Added Fertilizer
