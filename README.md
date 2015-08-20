@@ -28,7 +28,7 @@ The current authors include:
   + [Olympic1][Olympic1] \<<arnepeirs1@gmail.com>\>
 
 ### Licenses
-For licensing information, please see the [included License.txt][ICONS:license] file.
+For licensing information, please see the [included LICENSE.txt][ICONS:license] file.
 
 ### FAQ
   * What does this mod do?
@@ -38,7 +38,7 @@ For licensing information, please see the [included License.txt][ICONS:license] 
 
 ### Installation
   1. Download the latest [Alternate Resource Panel][thread:arp] from the thread.
-  2. Download the latest [Icon Pack][ICONS:rel-github] from the releases section of this GitHub repo.
+  2. Download the latest [icons pack][ICONS:rel-github] from the releases section of this GitHub repo.
   3. Extract both .zip files in your KSP installation's `GameData` folder.
 
 **Layout:**
@@ -77,16 +77,11 @@ Mods that integrated my icons
   * [x] [![][shield:support-df]][thread:df]
 
 ### Download
-You can download an Icon Pack by clicking on the links:
-  * [![][shield:rel-di]][ICONS:rel-di]
-  * [![][shield:rel-dr]][ICONS:rel-dr]
-  * [![][shield:rel-epl]][ICONS:rel-epl]
-  * [![][shield:rel-ics]][ICONS:rel-ics]
-  * [![][shield:rel-mc]][ICONS:rel-mc]
-  * [![][shield:rel-snacks]][ICONS:rel-snacks]
-  * [![][shield:rel-usi]][ICONS:rel-usi]
-
-Or download all the packs from [GitHub][ICONS:rel-github] or [DropBox][ICONS:rel-all]
+You can download the icons pack by clicking on one of the links:
+  * [![][image:rel-dropbox]][ICONS:rel-dropbox]
+  * [![][image:rel-github]][ICONS:rel-github]
+  * [![][image:rel-kerbalstuff]][ICONS:rel-kerbalstuff]
+  * [![][image:rel-ckan]][ICONS:rel-ckan]
 
 ### License
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, which means:
@@ -106,7 +101,7 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 
 [KSP:website]: http://kerbalspaceprogram.com/
 [thread:ckan]: http://forum.kerbalspaceprogram.com/threads/100067
-[ICONS:license]: http://github.com/Olympic1/Icon_Packs_KSP/blob/master/License.txt
+[ICONS:license]: http://github.com/Olympic1/Icon_Packs_KSP/blob/master/LICENSE_AlternateResourcePanel.txt
 
 [shield:support-ksp]: http://img.shields.io/badge/KSP-v1.0.x-green.svg
 [shield:support-ckan]: http://img.shields.io/badge/CKAN-Indexed-brightgreen.svg
@@ -123,8 +118,6 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [ICONS:thread]: http://forum.kerbalspaceprogram.com/threads/102980
 [ICONS:message]: http://forum.kerbalspaceprogram.com/private.php?do=newpm&u=81815
 [ICONS:reddit]: http://www.reddit.com/r/KerbalSpaceProgram
-
-[ICONS:rel-github]: https://github.com/Olympic1/Icon_Packs_KSP/releases/latest
 
 [thread:arp]: http://forum.kerbalspaceprogram.com/threads/60227
 [thread:mm]: http://forum.kerbalspaceprogram.com/threads/55219
@@ -150,7 +143,7 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [shield:support-arp]: http://img.shields.io/badge/KSP%20Alternate%20Resource%20Panel-v2.7.3.0-299bc7.svg
 [shield:support-mm]: http://img.shields.io/badge/ModuleManager-v2.6.x-40b7c0.svg
 [shield:support-crp]: http://img.shields.io/badge/Community%20Resource%20Pack-v0.4.4-c5c09f.svg
-[shield:support-dangit]: http://img.shields.io/badge/Dang%20It-v0.6.1-blue.svg
+[shield:support-di]: http://img.shields.io/badge/Dang%20It-v0.6.1-blue.svg
 [shield:support-dr]: http://img.shields.io/badge/Deadly%20Reentry-v7.2.2-red.svg
 [shield:support-epl]: http://img.shields.io/badge/Extraplanetary%20Launchpads-v5.2.90-orange.svg
 [shield:support-ftt]: http://img.shields.io/badge/Freight%20Transport%20Technologies-v0.4.1-yellow.svg
@@ -168,20 +161,12 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [shield:support-bm]: http://img.shields.io/badge/BioMass-v0.9.2.1-green.svg
 [shield:support-df]: http://img.shields.io/badge/DeepFreeze%20Continued-v0.17.1.0-acdadf.svg
 
-[ICONS:rel-all]: http://www.dropbox.com/s/wfxsnm72aev8d3b/AllPacks.zip
-[ICONS:rel-di]: http://www.dropbox.com/s/piqimag81ug3uof/DangItPack.zip
-[ICONS:rel-dr]: http://www.dropbox.com/s/euewcl7z1tce9na/DRPack.zip
-[ICONS:rel-epl]: http://www.dropbox.com/s/ulaa7kqgsucx5xr/EPLPack.zip
-[ICONS:rel-ics]: http://www.dropbox.com/s/qs5y9ebpmcuehr2/ICSPack.zip
-[ICONS:rel-mc]: http://www.dropbox.com/s/55i2nu3hq775940/MCPack.zip
-[ICONS:rel-snacks]: http://www.dropbox.com/s/cl6fzua3xk0n1h6/SnacksPack.zip
-[ICONS:rel-usi]: http://www.dropbox.com/s/26sokhwn2jzo5ob/USIPack.zip
+[ICONS:rel-dropbox]: https://www.dropbox.com/s/uds3m07nfmiu4dx/Olympic1ARPIcons-v0.6.0.zip
+[ICONS:rel-github]: http://github.com/Olympic1/Icon_Packs_KSP/releases/latest
+[ICONS:rel-kerbalstuff]: https://kerbalstuff.com/mod/1095/Olympic1%27s%20ARP%20Icons
+[ICONS:rel-ckan]: http://forum.kerbalspaceprogram.com/threads/100067
 
-[shield:rel-all]: http://img.shields.io/badge/All%20Packs-v0.5.3-orange.svg
-[shield:rel-di]: http://img.shields.io/badge/DangIt%20Pack-v0.2.1-orange.svg
-[shield:rel-dr]: http://img.shields.io/badge/DR%20Pack-v0.2.1-orange.svg
-[shield:rel-epl]: http://img.shields.io/badge/EPL%20Pack-v0.2.1-orange.svg
-[shield:rel-ics]: http://img.shields.io/badge/ICS%20Pack-v0.2.1-orange.svg
-[shield:rel-mc]: http://img.shields.io/badge/MC%20Pack-v0.2.1-orange.svg
-[shield:rel-snacks]: http://img.shields.io/badge/Snacks%20Pack-v0.2.1-orange.svg
-[shield:rel-usi]: http://img.shields.io/badge/USI%20Pack-v0.5.3-orange.svg
+[image:rel-dropbox]: http://i60.tinypic.com/70jj43.jpg
+[image:rel-github]: http://i59.tinypic.com/2i11u2d.jpg
+[image:rel-kerbalstuff]: http://i59.tinypic.com/rs623o.jpg
+[image:rel-ckan]: http://i59.tinypic.com/jidcvk.jpg
