@@ -3,6 +3,7 @@ Olympic1's ARP Icons
 
 0.6.0 - 2015.xx.xx
 * Merged all the icon packs into one big pack
+	* Moved the icons into 1 folder
     * Merged the version files into 1 file
 	* Merged the changelog files into 1 file
 * Moved the MM configs in their own folder
