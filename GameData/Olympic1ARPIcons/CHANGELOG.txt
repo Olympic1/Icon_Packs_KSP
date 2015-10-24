@@ -1,6 +1,15 @@
 Olympic1's ARP Icons
 --------------------
 
+0.7.0 - 2015.10.25
+* Added AblativeOil
+* Added Dirt
+* Added MaterialKits
+* Added NPU-250
+* Added NPU-500
+* Added NPU-1000
+* Added NPU-2500
+
 0.6.0 - 2015.08.20
 * Merged all the icon packs into one big pack
     * Moved the icons into 1 folder
