@@ -167,7 +167,7 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [shield:support-bm]: http://img.shields.io/badge/BioMass-v0.9.2.1-green.svg
 [shield:support-df]: http://img.shields.io/badge/DeepFreeze%20Continued-v0.19.1.0-acdadf.svg
 
-[ICONS:rel-dropbox]: https://www.dropbox.com/s/6qrovfegupdr393/Olympic1ARPIcons-v0.7.0.zip
+[ICONS:rel-dropbox]: https://www.dropbox.com/s/otqbtd784kxfucp/Olympic1ARPIcons_v0.7.1.zip
 [ICONS:rel-github]: http://github.com/Olympic1/Icon_Packs_KSP/releases/latest
 [ICONS:rel-kerbalstuff]: https://kerbalstuff.com/mod/1095/Olympic1%27s%20ARP%20Icons
 [ICONS:rel-ckan]: http://forum.kerbalspaceprogram.com/threads/100067
