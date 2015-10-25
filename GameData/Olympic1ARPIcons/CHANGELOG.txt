@@ -1,6 +1,10 @@
 Olympic1's ARP Icons
 --------------------
 
+0.7.1 - 2015.10.25
+* Made Fluorine a bit darker
+* Gave the NPU icons the correct size (32x16)
+
 0.7.0 - 2015.10.25
 * Added AblativeOil
 * Added Dirt
