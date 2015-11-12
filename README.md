@@ -63,7 +63,7 @@ Install at least one of these mods to see the icons
   * [x] [![][shield:support-kar]][thread:kar]
   * [x] [![][shield:support-kar+]][thread:kar+]
   * [x] [![][shield:support-kr]][thread:kr]
-  * [ ] [![][shield:support-mc]][thread:mc]
+  * [x] [![][shield:support-mc]][thread:mc]
   * [x] [![][shield:support-mks-lite]][thread:mks-lite]
   * [x] [![][shield:support-nr]][thread:nr]
   * [ ] [![][shield:support-snacks]][thread:snacks]
@@ -104,7 +104,7 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 
 [KSP:website]: http://kerbalspaceprogram.com/
 [thread:ckan]: http://forum.kerbalspaceprogram.com/threads/100067
-[ICONS:license]: http://github.com/Olympic1/Icon_Packs_KSP/blob/master/LICENSE_AlternateResourcePanel.txt
+[ICONS:license]: http://github.com/Olympic1/Icon_Packs_KSP/blob/master/LICENSE_Olympic1ARPIcons.txt
 
 [shield:support-ksp]: http://img.shields.io/badge/KSP-v1.0.x-green.svg
 [shield:support-ckan]: http://img.shields.io/badge/CKAN-Indexed-brightgreen.svg
@@ -157,7 +157,7 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [shield:support-kar]: http://img.shields.io/badge/Karbonite-v0.6.6.0-000000.svg
 [shield:support-kar+]: http://img.shields.io/badge/Karbonite%20Plus-v0.5.2.0-lightgrey.svg
 [shield:support-kr]: http://img.shields.io/badge/Karibou%20Rover-v0.1.1.0-784421.svg
-[shield:support-mc]: http://img.shields.io/badge/Mission%20Controller%202-v1.23.0-50b2bc.svg
+[shield:support-mc]: http://img.shields.io/badge/Mission%20Controller%202-v1.24.0-50b2bc.svg
 [shield:support-mks-lite]: http://img.shields.io/badge/MKS--Lite-v0.1.0.0-ff9955.svg
 [shield:support-nr]: http://img.shields.io/badge/Nuclear%20Rockets-v0.1.1.0-3cdc28.svg
 [shield:support-snacks]: http://img.shields.io/badge/Snacks-v0.3.5-a99b13.svg
