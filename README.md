@@ -55,7 +55,7 @@ The following mods are needed to use my icons
 ### Recommended Mods
 Install at least one of these mods to see the icons
   * [x] [![][shield:support-crp]][thread:crp]
-  * [ ] [![][shield:support-di]][thread:di]
+  * [x] [![][shield:support-di]][thread:di]
   * [ ] [![][shield:support-dr]][thread:dr]
   * [x] [![][shield:support-epl]][thread:epl]
   * [x] [![][shield:support-ftt]][thread:ftt]
@@ -148,8 +148,8 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 
 [shield:support-arp]: http://img.shields.io/badge/KSP%20Alternate%20Resource%20Panel-v2.7.3.0-299bc7.svg
 [shield:support-mm]: http://img.shields.io/badge/ModuleManager-v2.6.x-40b7c0.svg
-[shield:support-crp]: http://img.shields.io/badge/Community%20Resource%20Pack-v0.4.5.0-c5c09f.svg
-[shield:support-di]: http://img.shields.io/badge/Dang%20It-v0.6.1-blue.svg
+[shield:support-crp]: http://img.shields.io/badge/Community%20Resource%20Pack-v0.4.7.0-c5c09f.svg
+[shield:support-di]: http://img.shields.io/badge/Dang%20It-v0.6.2-blue.svg
 [shield:support-dr]: http://img.shields.io/badge/Deadly%20Reentry-v7.2.2-red.svg
 [shield:support-epl]: http://img.shields.io/badge/Extraplanetary%20Launchpads-v5.2.92-orange.svg
 [shield:support-ftt]: http://img.shields.io/badge/Freight%20Transport%20Technologies-v0.4.2.0-yellow.svg
