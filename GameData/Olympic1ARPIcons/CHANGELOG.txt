@@ -3,6 +3,7 @@ Olympic1's ARP Icons
 
 0.7.2 - 2015.11.10
 * Fixed version file
+* Support for USI Nuclear Rockets
 * New ModuleManager
 
 0.7.1 - 2015.10.25
