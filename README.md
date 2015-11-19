@@ -56,17 +56,17 @@ The following mods are needed to use my icons
 Install at least one of these mods to see the icons
   * [x] [![][shield:support-crp]][thread:crp]
   * [x] [![][shield:support-di]][thread:di]
-  * [ ] [![][shield:support-dr]][thread:dr]
+  * [x] [![][shield:support-dr]][thread:dr]
   * [x] [![][shield:support-epl]][thread:epl]
   * [x] [![][shield:support-ftt]][thread:ftt]
-  * [ ] [![][shield:support-ics]][thread:ics]
+  * [x] [![][shield:support-ics]][thread:ics]
   * [x] [![][shield:support-kar]][thread:kar]
   * [x] [![][shield:support-kar+]][thread:kar+]
   * [x] [![][shield:support-kr]][thread:kr]
   * [x] [![][shield:support-mc]][thread:mc]
   * [x] [![][shield:support-mks-lite]][thread:mks-lite]
   * [x] [![][shield:support-nr]][thread:nr]
-  * [ ] [![][shield:support-snacks]][thread:snacks]
+  * [x] [![][shield:support-snacks]][thread:snacks]
   * [x] [![][shield:support-sr]][thread:sr]
   * [x] [![][shield:support-exp]][thread:exp]
   * [x] [![][shield:support-uks]][thread:uks]
@@ -76,7 +76,7 @@ Install at least one of these mods to see the icons
 
 ### Integrated Icons
 Mods that integrated my icons
-  * [ ] [![][shield:support-bm]][thread:bm]
+  * [x] [![][shield:support-bm]][thread:bm]
   * [x] [![][shield:support-df]][thread:df]
 
 ### Download
@@ -151,8 +151,8 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [shield:support-crp]: http://img.shields.io/badge/Community%20Resource%20Pack-v0.4.7.0-c5c09f.svg
 [shield:support-di]: http://img.shields.io/badge/Dang%20It-v0.6.2-blue.svg
 [shield:support-dr]: http://img.shields.io/badge/Deadly%20Reentry-v7.2.2-red.svg
-[shield:support-epl]: http://img.shields.io/badge/Extraplanetary%20Launchpads-v5.2.92-orange.svg
-[shield:support-ftt]: http://img.shields.io/badge/Freight%20Transport%20Technologies-v0.4.2.0-yellow.svg
+[shield:support-epl]: http://img.shields.io/badge/Extraplanetary%20Launchpads-v5.2.93-orange.svg
+[shield:support-ftt]: http://img.shields.io/badge/Freight%20Transport%20Technologies-v0.4.3.0-yellow.svg
 [shield:support-ics]: http://img.shields.io/badge/Ioncross%20Crew%20Support-v1.20.1-34c566.svg
 [shield:support-kar]: http://img.shields.io/badge/Karbonite-v0.6.6.0-000000.svg
 [shield:support-kar+]: http://img.shields.io/badge/Karbonite%20Plus-v0.5.2.0-lightgrey.svg
@@ -164,7 +164,7 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [shield:support-sr]: http://img.shields.io/badge/Sounding%20Rockets-v0.3.1.0-be7272.svg
 [shield:support-exp]: http://img.shields.io/badge/USI%20Exploration%20Pack-v0.4.3.0-206261.svg
 [shield:support-uks]: http://img.shields.io/badge/USI%20Kolonization%20Systems%20(MKS/OKS)-v0.31.12.0-7c69c0.svg
-[shield:support-ls]: http://img.shields.io/badge/USI%20Life%20Support-v0.1.4.0-green.svg
+[shield:support-ls]: http://img.shields.io/badge/USI%20Life%20Support-v0.1.7.0-green.svg
 [shield:support-srv]: http://img.shields.io/badge/USI%20Survivability%20Pack-v0.3.3.0-576935.svg
 [shield:support-warp]: http://img.shields.io/badge/Warp%20Drive-v0.3.1.0-7d617d.svg
 [shield:support-bm]: http://img.shields.io/badge/BioMass-v0.9.2.1-green.svg
