@@ -1,6 +1,15 @@
 Olympic1's ARP Icons
 --------------------
 
+0.8.0 - 2016.02.11
+* Added Gypsum
+* Added IntakeLqd
+* Added Lead
+* Added ReplacementParts
+* Added UF4
+* Fixed icons not showing when only CRP is installed
+* New ModuleManager
+
 0.7.2 - 2015.11.10
 * Fixed version file
 * Support for USI Nuclear Rockets
