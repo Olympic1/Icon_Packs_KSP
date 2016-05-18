@@ -1,6 +1,10 @@
 Olympic1's ARP Icons
 --------------------
 
+0.9.0 - 2016.05.18
+* Added FSCoolant
+* New ModuleManager
+
 0.8.0 - 2016.02.11
 * Added Gypsum
 * Added IntakeLqd
