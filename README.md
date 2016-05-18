@@ -34,34 +34,35 @@ For licensing information, please see the [included LICENSE.txt][ICONS:license] 
     * Olympic1ARPIcons\
     * ModuleManager.2.6.x.dll
 
-### Required Mods
+### Dependencies
 The following mods are needed to use my icons
   * [x] [![][shield:support-arp]][thread:arp]
   * [x] [![][shield:support-mm]][thread:mm]
 
-### Recommended Mods
+### Supported mods
 Install at least one of these mods to see the icons
   * [x] [![][shield:support-warp]][thread:warp]
   * [x] [![][shield:support-crp]][thread:crp]
   * [x] [![][shield:support-di]][thread:di]
   * [x] [![][shield:support-dr]][thread:dr]
   * [x] [![][shield:support-epl]][thread:epl]
+  * [x] [![][shield:support-fs]][thread:fs]
   * [x] [![][shield:support-ics]][thread:ics]
   * [x] [![][shield:support-mc]][thread:mc]
   * [x] [![][shield:support-nr]][thread:nr]
   * [x] [![][shield:support-snacks]][thread:snacks]
   * [x] [![][shield:support-ls]][thread:ls]
 
-### Integrated Icons
+### Mods that integrated my icons
 Mods that integrated my icons
   * [x] [![][shield:support-bm]][thread:bm]
   * [x] [![][shield:support-df]][thread:df]
 
-### Download
+### Downloads
 You can download the icons pack by clicking on one of the links:
   * [![][image:rel-dropbox]][ICONS:rel-dropbox]
   * [![][image:rel-github]][ICONS:rel-github]
-  * [![][image:rel-kerbalstuff]][ICONS:rel-kerbalstuff]
+  * [![][image:rel-spacedock]][ICONS:rel-spacedock]
   * [![][image:rel-ckan]][ICONS:rel-ckan]
 
 ### License
@@ -84,7 +85,7 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [thread:ckan]: http://forum.kerbalspaceprogram.com/index.php?/topic/90246-/
 [ICONS:license]: http://github.com/Olympic1/Icon_Packs_KSP/blob/master/LICENSE_Olympic1ARPIcons.txt
 
-[shield:support-ksp]: http://img.shields.io/badge/KSP-v1.0.x-green.svg
+[shield:support-ksp]: http://img.shields.io/badge/KSP-v1.x-green.svg
 [shield:support-ckan]: http://img.shields.io/badge/CKAN-Indexed-brightgreen.svg
 [shield:license-cc]: http://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg
 
@@ -98,6 +99,7 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [thread:di]: http://forum.kerbalspaceprogram.com/index.php?/topic/73920-/
 [thread:dr]: http://forum.kerbalspaceprogram.com/index.php?/topic/50296-/
 [thread:epl]: http://forum.kerbalspaceprogram.com/index.php?/topic/54284-/
+[thread:fs]: http://forum.kerbalspaceprogram.com/index.php?/topic/22583-/
 [thread:ics]: http://forum.kerbalspaceprogram.com/index.php?/topic/74182-/
 [thread:mc]: http://forum.kerbalspaceprogram.com/index.php?/topic/40183-/
 [thread:nr]: http://forum.kerbalspaceprogram.com/index.php?/topic/121597-/
@@ -108,25 +110,26 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 
 [shield:support-arp]: http://img.shields.io/badge/KSP%20Alternate%20Resource%20Panel-v2.7.4.0-299bc7.svg
 [shield:support-mm]: http://img.shields.io/badge/ModuleManager-v2.6.x-40b7c0.svg
-[shield:support-warp]: http://img.shields.io/badge/Alcubierre%20Warp%20Drive-v0.3.2.0-7d617d.svg
-[shield:support-crp]: http://img.shields.io/badge/Community%20Resource%20Pack-v0.4.9.0-c5c09f.svg
+[shield:support-warp]: http://img.shields.io/badge/Alcubierre%20Warp%20Drive-v0.4.2.1-7d617d.svg
+[shield:support-crp]: http://img.shields.io/badge/Community%20Resource%20Pack-v0.5.1.1-c5c09f.svg
 [shield:support-di]: http://img.shields.io/badge/Dang%20It-v0.6.2-blue.svg
-[shield:support-dr]: http://img.shields.io/badge/Deadly%20Reentry-v7.3.1-red.svg
-[shield:support-epl]: http://img.shields.io/badge/Extraplanetary%20Launchpads-v5.2.95-orange.svg
+[shield:support-dr]: http://img.shields.io/badge/Deadly%20Reentry-v7.4.4-red.svg
+[shield:support-epl]: http://img.shields.io/badge/Extraplanetary%20Launchpads-v5.3.2-orange.svg
+[shield:support-fs]: http://img.shields.io/badge/Firespitter-v7.2.3-red.svg
 [shield:support-ics]: http://img.shields.io/badge/Ioncross%20Crew%20Support-v1.20.1-34c566.svg
-[shield:support-mc]: http://img.shields.io/badge/Mission%20Controller%202-v1.25.0-50b2bc.svg
-[shield:support-nr]: http://img.shields.io/badge/'Project%20Orion'%20Nuclear%20Pulse%20Engine-v0.1.2.0-3cdc28.svg
+[shield:support-mc]: http://img.shields.io/badge/Mission%20Controller%202-v1.37.0-50b2bc.svg
+[shield:support-nr]: http://img.shields.io/badge/'Project%20Orion'%20Nuclear%20Pulse%20Engine-v0.2.2.1-3cdc28.svg
 [shield:support-snacks]: http://img.shields.io/badge/Snacks-v0.3.5-a99b13.svg
-[shield:support-ls]: http://img.shields.io/badge/USI%20Life%20Support-v0.3.10.0-green.svg
+[shield:support-ls]: http://img.shields.io/badge/USI%20Life%20Support-v0.4.2.1-green.svg
 [shield:support-bm]: http://img.shields.io/badge/BioMass-v0.9.2.1-green.svg
-[shield:support-df]: http://img.shields.io/badge/DeepFreeze%20Continued-v0.20.2.0-acdadf.svg
+[shield:support-df]: http://img.shields.io/badge/DeepFreeze%20Continued-v0.22.1.0-acdadf.svg
 
-[ICONS:rel-dropbox]: http://www.dropbox.com/s/j12sby4tqo4lff2/Olympic1ARPIcons-v0.8.0.zip
+[ICONS:rel-dropbox]: http://www.dropbox.com/s/p3174f1nqsnkvol/Olympic1ARPIcons-v0.9.0.zip
 [ICONS:rel-github]: http://github.com/Olympic1/Icon_Packs_KSP/releases/latest
-[ICONS:rel-kerbalstuff]: http://kerbalstuff.com/mod/1095
+[ICONS:rel-spacedock]: http://spacedock.info/mod/15
 [ICONS:rel-ckan]: http://forum.kerbalspaceprogram.com/index.php?/topic/90246-/
 
 [image:rel-dropbox]: http://i60.tinypic.com/70jj43.jpg
 [image:rel-github]: http://i59.tinypic.com/2i11u2d.jpg
-[image:rel-kerbalstuff]: http://i59.tinypic.com/rs623o.jpg
+[image:rel-spacedock]: http://i65.tinypic.com/ot0ks9.jpg
 [image:rel-ckan]: http://i59.tinypic.com/jidcvk.jpg
