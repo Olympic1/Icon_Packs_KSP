@@ -103,7 +103,7 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [thread:ics]: http://forum.kerbalspaceprogram.com/index.php?/topic/74182-/
 [thread:mc]: http://forum.kerbalspaceprogram.com/index.php?/topic/40183-/
 [thread:nr]: http://forum.kerbalspaceprogram.com/index.php?/topic/121597-/
-[thread:snacks]: http://forum.kerbalspaceprogram.com/index.php?/topic/81929-/
+[thread:snacks]: https://github.com/Angel-125/Snacks
 [thread:ls]: http://forum.kerbalspaceprogram.com/index.php?/topic/105202-/
 [thread:bm]: http://forum.kerbalspaceprogram.com/index.php?/topic/48629-/
 [thread:df]: http://forum.kerbalspaceprogram.com/index.php?/topic/112328-/
@@ -119,7 +119,7 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [shield:support-ics]: http://img.shields.io/badge/Ioncross%20Crew%20Support-v1.20.1-34c566.svg
 [shield:support-mc]: http://img.shields.io/badge/Mission%20Controller%202-v1.37.0-50b2bc.svg
 [shield:support-nr]: http://img.shields.io/badge/'Project%20Orion'%20Nuclear%20Pulse%20Engine-v0.2.2.1-3cdc28.svg
-[shield:support-snacks]: http://img.shields.io/badge/Snacks-v0.3.5-a99b13.svg
+[shield:support-snacks]: http://img.shields.io/badge/Snacks-v1.1.6-a99b13.svg
 [shield:support-ls]: http://img.shields.io/badge/USI%20Life%20Support-v0.4.2.1-green.svg
 [shield:support-bm]: http://img.shields.io/badge/BioMass-v0.9.2.1-green.svg
 [shield:support-df]: http://img.shields.io/badge/DeepFreeze%20Continued-v0.22.1.0-acdadf.svg
