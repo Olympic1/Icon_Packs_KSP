@@ -1,6 +1,14 @@
 Olympic1's ARP Icons
 --------------------
 
+0.10.0 - 2016.07.24
+* Added Carbon
+* Added Helium3
+* Added Light
+* Added Lithium6
+* Added Monazite
+* New ModuleManager
+
 0.9.0 - 2016.05.18
 * Added FSCoolant
 * New ModuleManager
