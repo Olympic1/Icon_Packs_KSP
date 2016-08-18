@@ -111,7 +111,7 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [shield:support-arp]: http://img.shields.io/badge/KSP%20Alternate%20Resource%20Panel-v2.8.1.0-299bc7.svg
 [shield:support-mm]: http://img.shields.io/badge/ModuleManager-v2.6.x-40b7c0.svg
 [shield:support-warp]: http://img.shields.io/badge/Alcubierre%20Warp%20Drive-v0.4.4.0-7d617d.svg
-[shield:support-crp]: http://img.shields.io/badge/Community%20Resource%20Pack-v0.5.4.0-c5c09f.svg
+[shield:support-crp]: http://img.shields.io/badge/Community%20Resource%20Pack-v0.5.5.0-c5c09f.svg
 [shield:support-di]: http://img.shields.io/badge/Dang%20It-v0.6.2-blue.svg
 [shield:support-dr]: http://img.shields.io/badge/Deadly%20Reentry-v7.4.7.1-red.svg
 [shield:support-epl]: http://img.shields.io/badge/Extraplanetary%20Launchpads-v5.4.0-orange.svg
