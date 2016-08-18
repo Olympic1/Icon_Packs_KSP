@@ -1,6 +1,14 @@
 Olympic1's ARP Icons
 --------------------
 
+0.10.1 - 2016.08.xx
+* Added Borate
+* Added Deuterium
+* Added HeavyWater
+* Added Helium4
+* Added Silicates
+* Added Silicon
+
 0.10.0 - 2016.07.24
 * Added Carbon
 * Added Helium3
