@@ -6,8 +6,14 @@ Olympic1's ARP Icons
 * Added Deuterium
 * Added HeavyWater
 * Added Helium4
+* Added Hexaborane
+* Added LqdArgon
+* Added LqdWater
+* Added ParticleAcceleratorData
+* Added SaltWater
 * Added Silicates
 * Added Silicon
+* Added SolarWind
 
 0.10.0 - 2016.07.24
 * Added Carbon

@@ -48,6 +48,7 @@ Install at least one of these mods to see the icons
   * [x] [![][shield:support-epl]][thread:epl]
   * [x] [![][shield:support-fs]][thread:fs]
   * [x] [![][shield:support-ics]][thread:ics]
+  * [x] [![][shield:support-kspi]][thread:kspi]
   * [x] [![][shield:support-mc]][thread:mc]
   * [x] [![][shield:support-nr]][thread:nr]
   * [x] [![][shield:support-snacks]][thread:snacks]
@@ -101,6 +102,7 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [thread:epl]: http://forum.kerbalspaceprogram.com/index.php?/topic/54284-/
 [thread:fs]: http://forum.kerbalspaceprogram.com/index.php?/topic/22583-/
 [thread:ics]: http://forum.kerbalspaceprogram.com/index.php?/topic/74182-/
+[thread:kspi]: http://forum.kerbalspaceprogram.com/index.php?/topic/100190-/
 [thread:mc]: http://forum.kerbalspaceprogram.com/index.php?/topic/40183-/
 [thread:nr]: http://forum.kerbalspaceprogram.com/index.php?/topic/121597-/
 [thread:snacks]: https://github.com/Angel-125/Snacks
@@ -117,6 +119,7 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [shield:support-epl]: http://img.shields.io/badge/Extraplanetary%20Launchpads-v5.4.0-orange.svg
 [shield:support-fs]: http://img.shields.io/badge/Firespitter-v7.3.0-red.svg
 [shield:support-ics]: http://img.shields.io/badge/Ioncross%20Crew%20Support-v1.25.0-34c566.svg
+[shield:support-kspi]: http://img.shields.io/badge/KSP%20Interstellar%20Expanded-v1.9.11-c5a79f.svg
 [shield:support-mc]: http://img.shields.io/badge/Mission%20Controller%202-v1.38.0-50b2bc.svg
 [shield:support-nr]: http://img.shields.io/badge/'Project%20Orion'%20Nuclear%20Pulse%20Engine-v0.2.4.0-3cdc28.svg
 [shield:support-snacks]: http://img.shields.io/badge/Snacks-v1.1.7-a99b13.svg
