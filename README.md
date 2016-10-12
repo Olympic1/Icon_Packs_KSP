@@ -127,6 +127,7 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [shield:support-bm]: http://img.shields.io/badge/BioMass-v0.9.2.1-green.svg
 [shield:support-df]: http://img.shields.io/badge/DeepFreeze%20Continued-v0.23.0.0-acdadf.svg
 
+[ICONS:rel-dropbox]: http://www.dropbox.com/s/yrg2m2y4x2ej01u/Olympic1ARPIcons-v0.10.1.zip
 [ICONS:rel-github]: http://github.com/Olympic1/Icon_Packs_KSP/releases/latest
 [ICONS:rel-spacedock]: http://spacedock.info/mod/15
 [ICONS:rel-ckan]: http://forum.kerbalspaceprogram.com/index.php?/topic/90246-ckan/
