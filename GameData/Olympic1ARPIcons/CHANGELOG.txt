@@ -1,8 +1,9 @@
 Olympic1's ARP Icons
 --------------------
 
-0.10.1 - 2016.08.xx
+0.10.1 - 2016.10.13
 * Added Borate
+* Added ColonySupplies
 * Added Deuterium
 * Added HeavyWater
 * Added Helium4
@@ -10,10 +11,12 @@ Olympic1's ARP Icons
 * Added LqdArgon
 * Added LqdWater
 * Added ParticleAcceleratorData
+* Added RefinedExotics
 * Added SaltWater
 * Added Silicates
 * Added Silicon
 * Added SolarWind
+* New ModuleManager
 
 0.10.0 - 2016.07.24
 * Added Carbon
