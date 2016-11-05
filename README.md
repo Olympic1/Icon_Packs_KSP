@@ -43,13 +43,11 @@ The following mods are needed to use my icons
 Install at least one of these mods to see the icons
   * [x] [![][shield:support-warp]][thread:warp]
   * [x] [![][shield:support-crp]][thread:crp]
-  * [x] [![][shield:support-di]][thread:di]
   * [x] [![][shield:support-dr]][thread:dr]
   * [x] [![][shield:support-epl]][thread:epl]
   * [x] [![][shield:support-fs]][thread:fs]
   * [x] [![][shield:support-ics]][thread:ics]
   * [x] [![][shield:support-kspi]][thread:kspi]
-  * [x] [![][shield:support-mc]][thread:mc]
   * [x] [![][shield:support-nr]][thread:nr]
   * [x] [![][shield:support-snacks]][thread:snacks]
   * [x] [![][shield:support-ls]][thread:ls]
