@@ -110,24 +110,22 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [thread:bm]: http://forum.kerbalspaceprogram.com/index.php?/topic/48629-bm/
 [thread:df]: http://forum.kerbalspaceprogram.com/index.php?/topic/112328-df/
 
-[shield:support-arp]: http://img.shields.io/badge/KSP%20Alternate%20Resource%20Panel-v2.8.1.0-299bc7.svg
+[shield:support-arp]: http://img.shields.io/badge/KSP%20Alternate%20Resource%20Panel-v2.9.0.0-299bc7.svg
 [shield:support-mm]: http://img.shields.io/badge/ModuleManager-v2.7.x-40b7c0.svg
 [shield:support-warp]: http://img.shields.io/badge/Alcubierre%20Warp%20Drive-v0.5.0.0-7d617d.svg
-[shield:support-crp]: http://img.shields.io/badge/Community%20Resource%20Pack-v0.6.0.0-c5c09f.svg
-[shield:support-di]: http://img.shields.io/badge/Dang%20It-v0.6.2-blue.svg
+[shield:support-crp]: http://img.shields.io/badge/Community%20Resource%20Pack-v0.6.2.0-c5c09f.svg
 [shield:support-dr]: http://img.shields.io/badge/Deadly%20Reentry-v7.4.7.1-red.svg
-[shield:support-epl]: http://img.shields.io/badge/Extraplanetary%20Launchpads-v5.4.0-orange.svg
+[shield:support-epl]: http://img.shields.io/badge/Extraplanetary%20Launchpads-v5.5.3-orange.svg
 [shield:support-fs]: http://img.shields.io/badge/Firespitter-v7.4.1-red.svg
 [shield:support-ics]: http://img.shields.io/badge/Ioncross%20Crew%20Support-v1.25.0-34c566.svg
-[shield:support-kspi]: http://img.shields.io/badge/KSP%20Interstellar%20Expanded-v1.10.7-c5a79f.svg
-[shield:support-mc]: http://img.shields.io/badge/Mission%20Controller%202-v1.4.3-50b2bc.svg
-[shield:support-nr]: http://img.shields.io/badge/'Project%20Orion'%20Nuclear%20Pulse%20Engine-v0.3.0.0-3cdc28.svg
-[shield:support-snacks]: http://img.shields.io/badge/Snacks-v1.4.0-a99b13.svg
-[shield:support-ls]: http://img.shields.io/badge/USI%20Life%20Support-v0.5.0.0-green.svg
+[shield:support-kspi]: http://img.shields.io/badge/KSP%20Interstellar%20Expanded-v1.10.12-c5a79f.svg
+[shield:support-nr]: http://img.shields.io/badge/'Project%20Orion'%20Nuclear%20Pulse%20Engine-v0.3.2.0-3cdc28.svg
+[shield:support-snacks]: http://img.shields.io/badge/Snacks-v1.5.5-a99b13.svg
+[shield:support-ls]: http://img.shields.io/badge/USI%20Life%20Support-v0.5.4.0-green.svg
 [shield:support-bm]: http://img.shields.io/badge/BioMass-v0.9.2.1-green.svg
-[shield:support-df]: http://img.shields.io/badge/DeepFreeze%20Continued-v0.23.0.0-acdadf.svg
+[shield:support-df]: http://img.shields.io/badge/DeepFreeze%20Continued-v0.23.1.0-acdadf.svg
 
-[ICONS:rel-dropbox]: http://www.dropbox.com/s/yrg2m2y4x2ej01u/Olympic1ARPIcons-v0.10.1.zip
+[ICONS:rel-dropbox]: http://www.dropbox.com/s/tdf6axda3jjoni1/Olympic1ARPIcons-v0.10.2.zip
 [ICONS:rel-github]: http://github.com/Olympic1/Icon_Packs_KSP/releases/latest
 [ICONS:rel-spacedock]: http://spacedock.info/mod/15
 [ICONS:rel-ckan]: http://forum.kerbalspaceprogram.com/index.php?/topic/90246-ckan/

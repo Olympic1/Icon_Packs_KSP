@@ -1,4 +1,4 @@
-Olympic1 ARP Icons - v0.10.1
+Olympic1 ARP Icons - v0.10.2
 ----------------------------
 Add icons to popular mods!
 
@@ -10,7 +10,7 @@ INSTALLATION
 ------------
 Installing the icons involves copying the icon files into the correct location in the KSP application folder
 1. Extract the .zip file you have downloaded to a temporary location
-2. Open the extracted folder structure and open the Olympic1ARPIcons_v0.10.1 folder
+2. Open the extracted folder structure and open the Olympic1ARPIcons_v0.10.2 folder
 3. Inside this you will find a GameData folder which contains all the content you will need
 4. Open another window to your KSP application folder - We'll call this <KSP_OS>
 5. Copy the contents of the extracted GameData folder to the <KSP_OS>\GameData folder
