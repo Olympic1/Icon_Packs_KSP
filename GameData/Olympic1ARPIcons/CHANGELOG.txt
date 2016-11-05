@@ -1,6 +1,16 @@
 Olympic1's ARP Icons
 --------------------
 
+0.10.2 - 2016.11.05
+* Added Construction
+* Added LqdFluorine
+* Added LqdNitrogen15
+* Added LqdOxygen18
+* Added Soil
+* New ModuleManager
+* Updated KSPI config
+* Removed DangIt and MissionController2 configs
+
 0.10.1 - 2016.10.13
 * Added Borate
 * Added ColonySupplies
