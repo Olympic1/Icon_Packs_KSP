@@ -95,13 +95,11 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [thread:mm]: http://forum.kerbalspaceprogram.com/index.php?/topic/50533-mm/
 [thread:warp]: http://forum.kerbalspaceprogram.com/index.php?/topic/90899-warp/
 [thread:crp]: http://forum.kerbalspaceprogram.com/index.php?/topic/83007-crp/
-[thread:di]: http://forum.kerbalspaceprogram.com/index.php?/topic/73920-di/
 [thread:dr]: http://forum.kerbalspaceprogram.com/index.php?/topic/50296-dr/
 [thread:epl]: http://forum.kerbalspaceprogram.com/index.php?/topic/54284-epl/
 [thread:fs]: http://forum.kerbalspaceprogram.com/index.php?/topic/22583-fs/
 [thread:ics]: http://forum.kerbalspaceprogram.com/index.php?/topic/74182-ics/
 [thread:kspi]: http://forum.kerbalspaceprogram.com/index.php?/topic/100190-kspi/
-[thread:mc]: http://forum.kerbalspaceprogram.com/index.php?/topic/40183-mc/
 [thread:nr]: http://forum.kerbalspaceprogram.com/index.php?/topic/121597-nr/
 [thread:snacks]: https://github.com/Angel-125/Snacks
 [thread:ls]: http://forum.kerbalspaceprogram.com/index.php?/topic/105202-ls/
@@ -123,7 +121,7 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 [shield:support-bm]: http://img.shields.io/badge/BioMass-v0.9.2.1-green.svg
 [shield:support-df]: http://img.shields.io/badge/DeepFreeze%20Continued-v0.23.1.0-acdadf.svg
 
-[ICONS:rel-dropbox]: http://www.dropbox.com/s/tdf6axda3jjoni1/Olympic1ARPIcons-v0.10.2.zip
+[ICONS:rel-dropbox]: http://www.dropbox.com/s/8nvb7hwq48bdxvg/Olympic1ARPIcons-v0.10.3.zip
 [ICONS:rel-github]: http://github.com/Olympic1/Icon_Packs_KSP/releases/latest
 [ICONS:rel-spacedock]: http://spacedock.info/mod/15
 [ICONS:rel-ckan]: http://forum.kerbalspaceprogram.com/index.php?/topic/90246-ckan/

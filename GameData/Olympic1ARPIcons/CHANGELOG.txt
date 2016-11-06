@@ -1,6 +1,9 @@
 Olympic1's ARP Icons
 --------------------
 
+0.10.3 - 2016.11.06
+* Fixed issue not showing some icons
+
 0.10.2 - 2016.11.05
 * Added Construction
 * Added LqdFluorine
