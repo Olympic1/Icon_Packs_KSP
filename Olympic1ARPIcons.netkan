@@ -21,12 +21,10 @@
     [
         { "name" : "AlcubierreStandalone" },
         { "name" : "CommunityResourcePack" },
-        { "name" : "DangIt" },
         { "name" : "DeadlyReentry" },
         { "name" : "ExtraPlanetaryLaunchpads" },
         { "name" : "Firespitter" },
         { "name" : "KSPInterstellarExtended" },
-        { "name" : "MissionController2" },
         { "name" : "Snacks" },
         { "name" : "USI-LS" },
         { "name" : "USI-NuclearRockets" }
