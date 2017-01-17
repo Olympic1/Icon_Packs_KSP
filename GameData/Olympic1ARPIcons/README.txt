@@ -21,7 +21,7 @@ LICENSE
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 
-Copyright © 2014 - 2016, Olympic1 ( http://github.com/Olympic1 )
+Copyright © 2014 - 2017, Olympic1 ( http://github.com/Olympic1 )
 
 -----
 
